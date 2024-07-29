@@ -19,6 +19,7 @@ To install and run this project, follow these steps:
 
 1. Clone the repository.
    ```bash
+   git clone https://github.com/akshat-sj/bitmind.git
    ```
 2. Create conda environment based on provided yaml file
    ```bash
