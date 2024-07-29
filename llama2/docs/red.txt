@@ -1,0 +1,3220 @@
+Introduction
+Main Goals
+
+The main goals of the player in this game are two:
+
+    Capture all 151 Pokémon in order to complete the Pokédex.
+    Win the eight Gym Badges from the Gym Leaders to access and win the Pokémon League.
+
+Game Start
+
+The player receives one Pokémon from Prof. Oak, which must be trained to make it stronger in order to defeat other trainer's Pokémon in battle or to weaken wild Pokémon which can be captured with a special artifact called Pokéball.
+
+Every Pokémon that wins a battle receives Experience Points, which allow it to grow, achieving new levels, learning new, more powerful movements, and even evolving into greater, bigger Pokémon.
+
+To help the trainer in his mission, there are objects which can be used to restore health to Pokémon or cure them from Special Conditions such as Confusion or Paralysis.
+
+
+Version Differences
+Pokémon not available
+
+Some Pokémon are exclusive to either Pokémon Red or Pokémon Blue, and must be traded from another game if you have the other version.
+Pokémon exclusive to Pokémon Red
+
+    023 - Ekans
+    024 - Arbok
+
+    043 - Oddish
+    044 - Gloom
+    045 - Vileplume
+    056 - Mankey
+    057 - Primeape
+    058 - Growlithe
+    059 - Arcanine
+    123 - Scyther
+    125 - Electabuzz
+
+Pokémon exclusive to Pokémon Blue
+
+    027 - Sandshrew
+    028 - Sandslash
+    037 - Vulpix
+    038 - Ninetales
+    052 - Meowth
+    053 - Persian
+    069 - Bellsprout
+    070 - Weepinbell
+    071 - Victreebel
+    126 - Magmar
+    127 - Pinsir
+
+
+Starting out
+Kanto
+
+The adventures in Pokémon Blue take place in the land of Kanto. This includes many cities and routes that the trainer must visit.
+Beginning the game
+
+Choose the New Game option in the menu which appears after the presentation. After setting your and your opponent's name, the game shall begin with you appearing in your room in Pallet Town. The first thing to do is to withdraw the Potion which you shall find stored in your computer.
+
+After that, it's time to go! Explore Pallet Town a bit and you'll find your house, your rival's house and Professor Oak's lab.
+
+
+Professor Oak's not in his lab, so you'll have to go to look for him somewhere else. The water-barred route to the south is not an option, so the only choice is to go north.
+
+Once you step on the grass, Professor Oak shall appear yelling at you how dangerous is the path to the north, and he'll bring you to his lab, where his grandson (your rival) is awaiting. After a bit of talk, he'll grant you the chance to choose between one of the three starter Pokémon of this game: Charmander, Squirtle and Bulbasaur.
+
+    Charmander has the strongest Attack and Speed of them. By contrast, his defence is weak.
+    Squirtle has the greatest level of defence. It also learns the best variety of attacks. Nevertheless, it is quite slow.
+    Bulbasaur is the best with Hit Points and Special Attack. On the other hand, it learns few good attacks by itself.
+
+    Bulbasaur
+    Bulbasaur
+    Charmander
+    Charmander
+    Squirtle
+    Squirtle
+
+Whatever Pokémon you choose, your opponent shall select the one which has type advantage over yours. After you have both chosen your starter Pokémon, your rival shall challenge you to a battle to test your newly received Pokémon.
+
+In this first combat, an agressive tactic is the best. Charmander's Scratch and Bulbasaur and Squirtle's Tackle are the best moves here. Keep on using damaging moves against the opponent's Pokémon, and don't forget to use the Potion you withdrew earlier from the PC if it is necessary, using it to restore up to 20 HP to your Pokémon (even though you lose a turn). Following this strategy, you should be able to beat the other Pokémon and win your first battle.
+
+Route 1
+
+After defeating your rival, you can leave Pallet Town by heading north. This will bring you to Route 1, the first of many numbered Routes that connect the cities and towns in Kanto. Travel north, zig-zagging left and right as you go. Route 1 is home to a number of ledges: small cliffs that you can jump over if moving south, but not if heading north.
+
+Route 1 will where you will see (and walk through) your first patches of tall grass. The most common way of encountering wild Pokémon is through walking through tall grass. When you are standing inside the grass, the game will check for the chance of an encounter every step you take. Unfortunately, you have no Pokéballs right now, so you cannot catch any of the Pokémon you meet. The Pokémon you will encounter in this and other Routes are listed in a separate section.
+
+The first man you see on this Route will give you a Potion if you talk to him.
+Viridian City
+
+This is the first urban area you will enter after leaving Pallet Town. The first building you will come to will be a Pokémon Center. Northeast of the Pokémon Center is the Pokémart. Usually a Pokémart would sell you goods like Pokéballs or recovery items. However, the first time you talk to the proprietor, he will give you a package to deliver to Professor Oak. Until the package is delivered, he will sell you nothing.
+
+If you continue north of the Pokémon Center, you will eventually run into a man who has fallen down, in a rather inconvenient place. You cannot proceed north past this area at this time. To the west you will find Route 22, but since you still can’t catch any Pokémon, there is little reason to go there.
+
+Next to the pond you will find an object that looks like a tree with two branches. This is a Cut tree, sometimes referred to as a bush. Until later in your adventure, Cut trees are impassible obstacles. If you search the town, you can find a back pathway that dead-ends at another Cut tree. However, when you reach the end, you will see a Pokéball on the ground. This is an item. Examine it (face it and press A), and you will find that it is a Potion, now yours to keep.
+The Pokémon Center
+
+A Pokémon Center is a very useful place. If you enter the Pokémon Center and talk to the first attendant (closest to the entrance), she will heal all your Pokémon for you, for free. Your Pokémon will no longer be fainted, will all have full HP, and will also have full PP (a statistic that controls how much you can use a single move in battle). You can do this any time you wish.
+Return to Pallet Town
+
+This is as far as we can go towards our adventure at this point. Talk to the man in the Pokémart to receive Professor Oak’s package, then return south to Pallet Town, back down Route 1. When you give the package to the Professor, your rival will enter. However, he is not interested in battling this time. Professor Oak will give him, and you, a Pokédex. The Pokédex contains a screen for each and every Pokémon in existence. (In this game, there are 151.) However, until you catch the Pokémon, its page will not appear. Completing the Pokédex is one of the things you can do after you beat the game, but since that there are some Pokémon that don’t exist in a game. You will need to trade (using a Game Boy Link Cable) with another copy of Pokémon Red and Blue that has caught one of these Pokémon. Some Pokémon, namely the starter Pokémon and their evolutions, cannot be caught at all save for the one you received when you began your adventure.
+
+At this point, Professor Oak will now give you five Poké Balls. Now that you have these, you can catch the wild Pokémon you meet, not just battle them.
+
+Before you leave Pallet Town, enter your rival’s house (due north of Professor Oak’s lab). Inside you will find your rival’s sister. If you talk to her, she will give you the Town Map. This item displays a map of the Kanto region (the same one listed at the top of this page, in fact) and lists your current location.
+
+
+Boulder Badge
+Starting your journey for real
+
+Now your journey truly begins. Return north to Viridian City.
+
+Remember the Poké Mart? They will now sell you items such as a Potion or a Poké Ball. You can learn more about the various status conditions by examining the blackboard in the house north of the Pokémon Center (the Pokémon School).
+
+If you go further north, you will see that the man who had fallen has now gotten back up. You are now free to proceed to Viridian City’s north exit. If you talk to him, he will give you a short tutorial on how to use Poké Balls. Unfortunately, the Gym in this town is closed. The Gym Leader is apparently elsewhere.
+Side trip: Route 22
+
+If you are interested in a side trip, there is another direction you can take out of Viridian City. At the west side of the city you’ll find the path to Route 22. Shortly after you enter Route 22, you will find a patch of tall grass. Unlike the tall grass in Route 1, you can encounter Nidoran♂ and Nidoran♀ (not the same species).
+
+If you walk farther into the Route past the tall grass, you will encounter your rival and have a battle with him. He has a Lv.9 Pidgey and the same Pokémon he chose at Professor Oak’s lab, now Lv.8. If you defeat him, you will receive •280. (Every Trainer in the game gives you a set amount of money when you defeat them.) If you proceed even farther west, you will encounter the Pokémon League Gate. You cannot travel any further in this direction until late in the game.
+Route 2
+
+Your real direction, however, is north to Route 2. You will pass three Cut trees, and there will be another patch of tall grass here as well. In addition to the usual Pidgey and Rattata, you can also encounter either Weedle (if you are playing Pokémon Red) or Caterpie (if you are playing Pokémon Blue). At the north side of the Route, you will encounter a building. Walk into it and straight out the other side and you will be in Viridian Forest.
+Viridian Forest
+
+In this area you will find your first enemy Trainers: people who will walk up to you when you step into their line of sight and challenge you to a battle. There are three enemy Trainers in Viridian Forest.
+
+Viridian Forest is large and sprawling, and you can find many more Pokémon here than you can on the previous Routes. There are also three items hidden in Viridian Forest. This is the best way to traverse Viridian Forest:
+
+    Starting at the tree you see at the entrance, go north and west through the tall grass. You will find a Poké Ball here.
+    Return to the entrance tree and go east, then north past the patch of tall grass. You will encounter an enemy Trainer here.
+    Either continue north through the grass, and battle another enemy Trainer at the end, or take the east path and bypass the area.
+    Just before you get to a fork in the road, you will find an Antidote. The decision of which path you take at this fork is meaningless. The east path simply winds around a bit before rejoining the west path. Head west and south; then zig-zag north and south until you reach another fork.
+    Head east at this fork to find a dead-end and a Potion.
+    Continue following the west path and, after defeating the third and final enemy Trainer in the area, make your way north to the exit.
+
+After a very short jaunt up the other side of Route 2 (passing another Cut tree as you go), you will arrive in Pewter City.
+Pewter City
+
+Pewter City is the location of the first Pokémon Gym. This city is large and more open than Viridian City, with only two houses and a lot of open area. The large building at the north side of the city is the Pewter City Museum. If you try to enter, you will be charged •50 admission. There is absolutely no reason for you to need to do this. You’ll also notice a back door to the Museum, off to the right, but it is blocked by yet another Cut tree.
+
+The other exit to Pewter City is to the east, but you’ll have to earn your first Gym badge before you can proceed that way. Be sure to heal at the Pokémon Center before entering the Pokémon Gym. If you are defeated, you will return to the last Pokémon Center you visited; it would stink to end up all the way back at Viridian City!
+Pewter City Gym
+
+The Pewter City Gym is very small, and contains mostly rocks. There is one enemy Trainer between you and Brock (although you can bypass him if you want). Oddly, despite this being the Rock-type Gym, the Trainer here uses only Ground-type Pokémon. (Even more strangely, none of the Pokémon in this Gym know any Ground-type or Rock-type moves.) Please see the Enemy Trainers section of this guide for information on the Pokémon you will encounter in this Gym.
+
+Boss — Brock (•1385 reward)
+
+    Level 12 Geodude
+    Level 12 Onix
+
+After you defeat Brock, you will receive the Boulder Badge, the first of eight Gym Badges you will need to earn to battle the Elite Four and Champion. Receiving the Boulder Badge will also give your Pokémon a 12.5% attack boost (for in-game battles only). It also permits you to use HM 05 (Flash) outside of battle, although you will not be able to do so until you receive the item much later in the game. You will also be given TM 34 (Bide), which is a move that Brock will use in battle.
+
+
+Cascade Badge
+Route 3
+
+After defeating Brock, the man who was blocking the east exit from Pewter City will be gone. This leads to Route 3. The first part of this area is home to eight enemy Trainers in close proximity to each other. You will find a patch of tall grass near the eighth Trainer. After that, the Route opens up. There will be a man (but who is not an enemy Trainer) standing next to a sign and a patch of tall grass. Head north from here. You will soon encounter a Pokémon Center, out in the middle of nowhere. To the east of the building is a cave entrance.
+
+Inside this Pokémon Center is a man who will offer to sell you a Magikarp for •500. This is not that good a deal, because later in the game you will receive the Old Rod, which can catch an infinite number of Magikarp at any watered area.
+
+When you’re ready, enter the cave.
+Mt. Moon
+
+Mt. Moon is a large cave, with many tunnels and three floors to explore. This is the most effective way to fully conquer Mount Moon:
+
+    Starting at the entrance to the cave, go north until you reach the sign. The large room to the west contains TM 12 (Water Gun) and a Potion, as well as one enemy Trainer.
+    Return to the sign and go east, past another enemy Trainer. You will soon encounter a ladder. Step on the ladder and you will climb down to the next floor.
+    The first basement floor of Mount Moon is nothing but a collection of straight tunnels. Traverse the one you’re in and continue down the next ladder.
+    You will arrive in an enclosed area with an enemy Trainer, the first member of Team Rocket you will battle in this game. Past him is a small pedestal area that holds an HP Up.
+    Go back up both ladders, then head south. This part of the cave contains two enemy Trainers and three items: a Potion in the southwest corner, a Rare Candy in the southeast corner, and an Escape Rope north of there. Continue north past where you find the Escape Rope.
+    To the northwest there will be another ladder. Go down it, traverse the straight cave, and go down again. You will now be in a different enclosed area on the lowest floor of Mount Moon. Here you will find another member of Team Rocket, TM 01 (Mega Punch) on the pedestal, and behind the rock to the east, an Ether.
+    Go back up the ladders. Continue down the path until you reach the large room. In the northeast corner is an enemy Trainer, a valuable Moon Stone in the very corner, and another ladder down.
+    Go down the ladders. You will now be standing on a raised platform near where you found TM 01. Follow the path all the way around, battling two Team Rocket members as you go. Past the second Team Rocket member is a doorway-like formation. Immediately after you pass through it, go east. You will see a small, one-tile-sized dead-end passage. Enter this passage and examine the tile closest to the wall. Even though you can’t see it, you will find another Moon Stone here.
+    Go up the stairs. The enemy Trainer you battle here will be, interestingly, not a Rocket. He is the last enemy Trainer in Mount Moon. After you defeat him, you will be offered the choice of one of two items: the Dome Fossil and the Helix Fossil. Both items, while worthless right now, can be exchanged towards the end of the game to receive a Pokémon you can’t get anywhere else: The Dome Fossil will yield a Kabuto, while the Helix fossil turns into an Omanyte. Whichever fossil you do not choose is lost forever.
+    Past there, you will find another ladder. At the end of one more straight cave, you will find that when you step on the last ladder you will exit the cave onto a new Route.
+
+Note that the Escape Rope you find here can be a useful item. If you use it, you will immediately be teleported out of wherever you are in the cave and respawn at the Pokémon Center just outside Mt. Moon. (You will have to walk back to where you were, though.)
+Route 4
+
+This large, open route is your last step before reaching Cerulean City. There are two items here. The first is TM 04 (Whirlwind), which is in plain sight on top of a hill. The other item, a Great Ball, is hidden. Just as you leave Mt. Moon, go northeast to find a sort of plateau made of ledges; the item is hidden somewhere in the middle.
+
+Once you reach the far side of Route 4, you will have to jump a ledge that you cannot then climb up again. Once you do so, you will be trapped in the area around Cerulean City. There is a small patch of tall grass here, if you need to train your Pokémon.
+Cerulean City
+
+Cerulean City is the same size as Pewter City, but is much more dense. There are four exits from this city; you came from the west one. The north exit leads to Route 24. The east and south exits are currently inaccessible.
+
+You will find the Bike Shop in the southwestern corner of the town. You might think that the bike is impossible to obtain, since they are charging •1 million for it and the maximum money you can hold at any one time is •999,999. However, you will soon receive a Bike Coupon that you can use here.
+Cerulean City Gym
+
+The Cerulean City Gym is a series of platforms over a large pool. There are two enemy Trainers between you and Misty; the first can be avoided. The Trainers here use Water-type Pokémon. Please see the Enemy Trainers section of this guide for information on the Pokémon you will encounter in this Gym.
+
+Boss — Misty (•2079 reward)
+
+    Level 18 Staryu
+    Level 21 Starmie
+
+After you defeat Misty, you will receive the Cascade Badge. While receiving the Cascade Badge does not grant any boost in battle, it enables you to use traded Pokémon up to level 30. (If you trade in a Pokémon of higher level than this, it will refuse to attack in battle.) This badge also grants you the ability to use the Cut move outside of battle. You will also receive TM 11 (Bubblebeam).
+
+
+Thunder Badge
+Route 24
+
+After leaving the Cerulean City Gym with your Cascade Badge, be sure to heal up at the Pokémon Center. When you’re ready, go to Cerulean City’s north exit, where you will run into your rival, who will immediately challenge you to a battle.
+
+Boss — Rival
+
+    Level 18 Pidgeotto
+    Level 15 Rattata
+    Level 15 Abra
+    Rival’s starter (Bulbasaur, Squirtle, or Charmander, depending on which Pokémon you chose in Pallet Town) at Level 17
+
+Once you have defeated him, heal again and exit Cerulean City. You will pass over a bridge with five Jr. Trainers on it. Defeat each one in turn, and when you get to the far end of the bridge, a man will reveal himself to you as a Rocket. After defeating him, he will give you a Nugget. This item can be sold at any Poké Mart for a large amount of money. There is one more enemy Trainer in a patch of tall grass to the west.
+Route 25
+
+Route 25 is dense and features nine enemy Trainers. There is only a small patch of tall grass on this Route, at the beginning. Proceed east, weaving through the maze of trees. About halfway through you will find another Cut tree. Normally, the item beyond would be inaccessible, but if you plan ahead you can get it early. When fighting the Jr. Trainer, ensure you are as far south of him as possible when walking into his line of sight, so that you can slip around him and through the gap where he stood. You will then find TM 19 (Seismic Toss).
+
+Immediately to the northeast of the first enemy Trainer on this Route, you will see a small, seemingly useless path between the rock wall and the trees. However, if you examine the wall at the far end of the path, you will find a hidden Elixir. You can also find a hidden Ether a few squares due east of the last enemy Trainer.
+
+Once you get to the end of the Route, you will find a house. Enter it. You will find an unusual situation inside. Help resolve it by examining the computer when prompted. You will then meet Bill, the person who runs the PC Storage System you’ve been using at the Pokémon Center (“Someone’s PC”); from here on it will be listed as Bill’s PC. He will give you an S.S. Ticket. This item will be required soon. South of Bill’s house, you will find a straight path that leads back to Cerulean City.
+The Burglar of Cerulean City
+
+Upon returning to Cerulean City, go to the house in the northeast corner that was blocked off. Turns out that someone burgled this house, and that someone is a Rocket. You must defeat him to continue. Once you do so, cut through the house’s yard and depart Cerulean City to the south.
+Route 5
+
+The two straight paths out of Cerulean City are not actually the way you want to take. In between them, a series of ledges and tall-grass patches will lead you to the Pokémon Daycare. If you drop a Pokémon off here, it will gain one point of EXP for every step you take. When you return, it will hopefully be of a higher level. Note that if the Pokémon learns a move during the process of leveling up, and an existing move must be forgotten, the computer will choose which move to delete, or to keep all four existing moves. You have no control over this. However, if you purchased that Magikarp back in Route 3, you can drop it off here and return to a Gyarados. You will be charged •100 for every level your Pokémon has gained when you withdraw them from the daycare.
+
+South of there you will find a small building to the east, and a large one to the south. The south building is a gate leading to Saffron City. Unfortunately, the gate is closed and you cannot enter. Therefore, enter the small building instead, and you will discover one of two tunnels that exist in Kanto. Both allow you to pass underneath Saffron City to the other side. The tunnel is long and straight, but not completely featureless. You can find a Full Restore hidden on the ground two tiles due west of the stairs at the north entrance to the tunnel, and an X Special two tiles east and six north of the stairs at the south end of the tunnel.
+Route 6
+
+You will emerge on Route 6, to the south of Saffron City. There will be another closed gate building to the north. Ignore it and go south instead. You will find a lot of tall grass here, as well as six enemy Trainers. After you pass through Route 6, you will arrive at Vermilion City.
+Vermilion City
+
+Vermilion City is a large port city, and the site of your next Gym. The Pokémon Center is to the west, just after you enter town. Inside the building west of that, one of the men will give you an Old Rod. This item of dubious utility enables you to fish at any body of water. Unfortunately, the only thing it will ever catch is Magikarp. You will receive better fishing rods later.
+
+The Pokémon Gym in this area is block off by a Cut tree. We will be able to deal with this shortly. North of that building is the Pokémon Fan Club. The president of this group likes to brag. Listen to his spiel and he will give you a Bike Voucher. When we return to Cerulean City, we can give this to the Bike Shop to receive a Bike!
+
+If you stand at the door to the Pokémon Fan Club and walk five squares east, then two squares north, you may be able to find a hidden Max Ether.
+
+Perhaps most importantly, the building immediately east of the Fan Club houses a trading opportunity. If you are willing to part with a Spearow, a person in this house will give you a Farfetch’d. This is the only way you’ll ever be able to meet a Farfetch’d, and it is the only one you can ever get. While Farfetch’d is not very useful in battle, he can learn the Cut HM and the Fly HM. This will be important, and useful, in just a bit.
+Boarding the S.S. Anne
+
+Currently docked at the pier at the south end if the city is the cruise ship S.S. Anne. Assuming you have the S.S. Ticket (and you wouldn’t be able to be here if you didn’t), the doorman will let you board the liner.
+
+The S.S. Anne is a unique area. It is only available for a short period of time. At the end of this area, you will receive the Cut HM from the ship’s captain. Once you do that, after you leave the vessel it will depart, and you will never be able to enter it again. Given that there are two TMs here to be collected, a good search of this vessel is an excellent idea, not just for the EXP. (Note that, until you receive the HM, you can enter and leave the ship as you please.) If you explore the ship as narrated below, you will battle every enemy Trainer and obtain every item on the ship.
+
+The main deck of the ship (where the entrance is) has five rooms to the west of the entrance and one to the east. Let’s number these rooms 1–6 (where room 1 is on the western side of the ship). Rooms 1 and 3 contain little of interest. Room 2 contains two enemy Trainers, and, past them, TM 08. Room 4 contains a woman who will heal your Pokémon when you talk to her, just like at a Pokémon Center. Rooms 5 and 6 contain one enemy Trainer.
+
+But this is only the first deck! If you proceed to the right past Room 5, you will find a staircase down to the basement. Numbering from 1–5 from the left, Room 1 contains two enemy Trainers. Room two contains one enemy Trainer and TM 44 (Rest). Room 3 contains an enemy Trainer and an Ether. Room 4 contains two enemy Trainers, and Room 5 contains a Max Potion.
+
+Returning to the main deck, if you go left instead, you will reach stairs going up and a corridor to the south. The south path leads to the kitchen, a large open area with no enemy Trainers. However, going there is not entirely pointless; if you search the trash cans, one of them contains a Great Ball.
+
+On the upper deck of the S.S. Anne, you will first find more stairs going up. If you take them, you will be on the lido deck, which extends to the S.S. Anne’s prow. Two enemy Trainers can be found there. You will also find six more rooms. Numbering them as before, you will find only that Rooms 2 and 4 contain anything of interest. Room 2 contains two enemy Trainers and a Max Ether. Room 4 contains two more enemy Trainers and a Rare Candy.
+
+Before proceeding to the east beyond Room 6 here, return to the main deck and heal your Pokémon in Room 4, for you have a boss battle coming up. When you are ready, move past the last room to encounter your rival. After a short speech, he will battle you.
+
+Boss — Rival
+
+    Level 19 Pidgeotto
+    Level 18 Kadabra
+    Level 16 Radicate
+    Level 22 evolved form of his starter (either Ivysaur, Charmeleon, or Wartortle, depending on which Pokémon you chose in Pallet Town).
+
+Past the rival battle, the corridor turns north and you see a final set of stairs. Take these and you will be in the captain’s cabin. The captain does not battle you; speak to him and he will give you, after a bit of chatter, HM 01 (Cut). Once he gives you this item, be aware that the S.S. Anne will sail away forever when you next step off the ship. If you have been following the sequence above, you should be good to go here.
+Vermilion City Gym
+
+Unlike a TM (which teaches a specific move to one of your Pokémon, once), an HM is multiple-use. You use these items to teach moves to Pokémon as many times as you want. Furthermore, all HMs have what are called field effects. These are ways you can affect your environment outside of battle. The field effect for Cut allows you to remove the Cut trees you have been seeing all over the region, most notably in front of the Vermilion City Gym. Note that if you put a Pokémon that knows an HM in the PC storage system, you will no longer be able to use that field effect until you take it back out or teach it to another Pokémon.
+
+Inside the Vermilion City Gym, you will find three enemy Trainers and the Gym Leader. Please see the Enemy Trainers section of this guide for information on the Pokémon you will encounter in this Gym. To reach the Gym Leader, you must find and press two switches. You do this by examining the trash cans sprinkled liberally around the room. The location of the first switch is random. The location of the second switch is also random, but it is certain to be in the can either directly north, west, east, or south of the first switch. If you do not find the second switch on your first try, the first switch will move to another random location.
+
+Boss — Lt. Surge (•2376 reward)
+
+    Level 21 Voltorb
+    Level 18 Pikachu
+    Level 24 Raichu
+
+After you defeat Lt. Surge, you will receive the Thunder Badge. Receiving this badge will give your Pokémon a 12.5% speed boost in battle (for in-game battles only). You will also be given TM 24 (Thunderbolt).
+
+
+To Lavender Town
+Vermilion City
+
+Your next destination is Lavender Town. The fastest way there is via Route 11, to the east of Vermilion City.
+Route 11
+
+This Route has paved pathways, lots of tall grass, and no fewer than 10 enemy Trainers. The small cave you see at the beginning of the Route does not lead to Lavender Town, so skip that for now. Towards the east end of the Route you will see an enemy Trainer looking at a bush. If you examine this bush, you will find an Escape Rope.
+
+You will reach a small gatehouse at the east end of the Route. Be sure to go upstairs, as there you will find one of Professor Oak’s assistants. Check the “Owned” number in your Pokédex. If this number is 30 or more, talk to him and he will give you the Itemfinder, which helps pinpoint the locations of hidden items. You will also find an individual willing to trade a Nidorido for a Nidorida. Continue east.
+Route 12
+
+Uh oh… what’s this? It seems that a giant Pokémon called Snorlax has fallen asleep in the most inconvenient spot in all of Kanto. You will need a special item to wake him that you do not have. We must turn back, unfortunately. Go back down Route 11, and this time enter the small cave you passed by earlier.
+Diglett’s Cave
+
+This small cave is a straight line (well, a diagonal line) connecting Vermilion City to Route 2. It is completely featureless except for the prodigious amount of wild Diglett you will encounter. A Flying-type Pokémon may be your friend here.
+Route 2
+
+You will emerge from the cave not far from the north entrance to Viridian Forest. Except, this time, you are located on the other side of those maddening Cut trees you saw when you first came through here. Go due south from the cave entrance. Inside the house, you will find a man who wants an Abra. These common but obnoxious Pokémon flee whenever you try to battle them. If you happen to have a spare one (that hasn’t evolved), you can trade your Abra for Mr. Mime, the only Mr. Mime in the game. Continue south.
+
+Inside the larger building, you will find another of Professor Oak’s aides. If you have a full team of six, plus at least four Pokémon in the PC box (ten or more Pokémon overall), talk to him and he will give you HM 05 (Flash). You will need this soon.
+
+South of there, you will find an HP Up and after that a rare Moon Stone. At this point, since you’re in the neighborhood, let’s do a bit of backtracking. Since you now have Cut, you can destroy the Cut trees to travel around (rather than through) Viridian Forest.
+Viridian City
+
+Remember this place? The Gym is still closed. But that’s OK; we’re here for something else. In the southwest corner of the city is a pool of water and a man behind a Cut tree. Destroy this Cut tree and talk to him. He will give you TM 42 (Dream Eater). Now head back north.
+Pewter City
+
+Remember the back door to the Pewter City museum? We can now get into that, too. Destroy the Cut tree and enter the building. Inside, one of the researchers will give you an Old Amber. This item works just like the Dome Fossil and the Helix Fossil you saw back in Mt. Moon. If you take this item to a lab in a distant town, you will receive a Pokémon found nowhere else. You now need to return to Cerulean City. You can either go east through Mt. Moon, or back through Diglett’s Cave and north using the underground tunnel.
+Cerulean City
+
+Exit east this time. You will find a Cut tree; dispose of it.
+Route 9
+
+This Route has a lot of ledges and a lot of enemy Trainers. You will have to take a roundabout path to reach the patch of tall grass you may see just after entering the Route. Due south of the first enemy Trainer, you will find TM 30 (Teleport). If you do wander about in the tall grass on this route, be sure to examine the lone tree at the end of the ledge. You’ll find an Ether hidden there.
+Route 10
+
+Now this is interesting. There is only one enemy Trainer on this route, but if you go all the way south you can see a huge building. This is the Power Plant. Sadly, the only way you can reach the Power Plant is via the river that runs down the east end of this Route, but you can’t swim. Remember this place well, though, as a Legendary Pokémon hides within it.
+
+You will find a Super Potion hidden in the cliff face immediately to the east of the cave entrance.
+Rock Tunnel
+
+Get ready for another cave. Unlike Mt. Moon, however, you can’t see a thing! It’s pitch black in here. This is the place where the HM for Flash comes in handy. Teach it to a Pokémon and use it to light up the cave. There is little to do in this area except move through it or stay and catch Pokémon. Here is the fastest path to the other side:
+
+    Head east, then south at the fork, past the enemy Trainer. (The east path is a dead end.)
+    Go down the ladder you find at the end.
+    Go west out of this room; you will find another enemy Trainer here. At the fork, go north; west is a dead end.
+    Follow the winding trail until you reach another fork in the northeast. Pick either path; they both lead to the same place and both have one enemy Trainer each.
+    Go up the ladder.
+    Go south. If you avoid the enemy Trainer here by going west, you will have to fight a different one. Both paths rejoin in an open area. You will find a ladder down the north path.
+    Go down the ladder.
+    Go west until you get to the fork; turn south. Go west at the next fork. Then go north and, immediately after that, west again. Go north from there and you will reach another ladder.
+    Go up the ladder.
+    Follow the winding path until you reach a fork; go west.
+    At the south side of this room you will find the exit!
+
+Route 10 (southern part)
+
+You will emerge from the cave right next to an enemy Trainer. Go east instead and search the very conspicuous rock to find a Max Ether. Then go south and you’ll finally reach Lavender Town.
+Lavender Town
+
+Finally, a Pokémon Center! Be sure to check out the Poké Mart here, as it sells several new items. This includes the Great Ball (more effective at catching a Pokémon than a regular Poké Ball) and the object called a Revive (use it on a fainted Pokémon and it will un-faint and regain half its health).
+
+In the southeast of the three houses in this town, you will find a man called the Name Rater. This apparent eccentric actually serves a very useful purpose: editing (or adding) the nicknames you give to Pokémon when you catch them.
+
+The house at the center of town is the residence of a kind old man named Fuji. He has mysteriously disappeared.
+
+The large tower to the northeast is Pokémon Tower. You are not intended to explore the tower at this point in the game. If you do, you will run into a rival battle (balanced for a more powerful team than yours is now), and past that you will find that the ghosts inhabiting the tower make progress impossible. You will have to come back later.
+
+
+Rainbow Badge
+Route 8
+
+When you’re ready to leave Lavender Town, use the west exit. (The south exit will take you past a lot of water and bridges until you get stuck at that same Snorlax you saw earlier.)
+
+Head due west on Route 8. If you follow the paved road, you will encounter seven enemy Trainers on the way, plus two more in the clearing at the end. There is tall grass here, but you will need to remove Cut trees to access it.
+
+At the west end of Route 8 you find a third entrance to Saffron City — and you can’t get in this way, either! This is getting to be annoying. Thankfully, the smaller house nearby contains another underground tunnel, like the one that you traveled through on your way to get the Thunder Badge. There are two items hidden here as well. The first item, a Nugget, can be found in the bottommost “row” of tiles, thirty-five tiles west of the entrance. The other, an Elixir, can be found in the second row, nineteen tiles east of the west exit.
+Route 7
+
+Route 7 is a very small Route on the west side of Saffron City. You’ll find one last entrance to the city here, blocked off as usual. Saffron City is completely inaccessible for some reason. Your only clue as to why are that the guards blocking your way are thirsty. What might that mean?
+
+Pass by the patch of tall grass and head northwest to enter Celadon City.
+Celadon City
+
+This large city is home to several tourist attractions: the Celadon City Gym, the Department Store, and the Game Corner (casino). As you enter, go around the back of the Pokémon Center and west after you pass through the tree line. The next gap in the trees that you will see is a back entrance to that building. Head all the way up to the top floor and you will reach a person who will give you an Eevee, the only one in the game. Eevee is notable for having three different evolutions (and even more in later generations), but it does not evolve on its own. To evolve an Eevee, use any evolutionary stone on it except for the Moon Stone, which Eevee does not respond to. Conveniently enough, you can buy these stones at the Department Store.
+
+If you enter through the front door of that building, you will reach Game Freak. This recurring trope in Pokémon games has a man waiting to give you a prize if you can show him a Pokédex with all 151 Pokémon “seen” in it. This is blatantly impossible. Pokémon #151, Mew, is what is called an event legendary. These Pokémon were only released at certain limited-time real-world events back in the 1990s. It is impossible to catch a Mew today, and you will need one to satisfy this man. Just forget about it.
+
+Skip the Game Corner for now. We’ve got a Gym to beat.
+Celadon City Gym
+
+This Gym is very small. Erika, the Gym Leader, is standing inside an enclosed area at the top of the room along with three other enemy Trainers. There are four more around the perimeter of this area. You will need to dispose of a Cut tree to get to the Gym Leader. As always, see the Enemy Trainers section of this guide for information on the Pokémon you will encounter in this Gym.
+
+Boss — Erika (•2871 reward)
+
+    Level 19 Victreebell
+    Level 24 Tangela
+    Level 29 Vileplume
+
+After you defeat Erika, you will receive the Rainbow Badge as well as TM 21 (Mega Drain). Possession of the Rainbow Badge grants you the ability to control traded Pokémon up to level 50.
+
+
+Rocket Hideout
+
+Don’t even think about leaving Celadon. If you try to exit to the west, you will find another extremely inconveniently placed sleeping Snorlax. Instead, let’s look at the town’s other attractions.
+
+There is something fishy going on in this town. Go to the local diner (in the southeast) and chat up the clientele. Something very suspicious indeed, and no one can agree on what. If you try the shipping warehouse next door, you will learn that this depot is shipping over 2,000 Pokémon a month, most to be given as prizes at the Game Corner. One of the men says that any suspicious activity has absolutely nothing to do with the man standing in front of the poster inside the Game Corner. Nothing at all!
+
+The fool. Go to the Game Corner. Talk to the man. He will turn out to be a Rocket. Defeat him and he will flee. Now examine the poster he was standing in front of, and a staircase will magically appear to the east. Welcome to…
+The Rocket Hideout
+
+You’ve stumbled upon Team Rocket’s secret base! It is your responsibility as protagonist to thwart whatever evil schemes Team Rocket might be planning. Let’s get to it!
+
+This is a large area, with many branching paths, and many hidden items. Team Rocket must be running some very profitable scams, as virtually every item in their base is rare or valuable.
+
+Rooting out Team Rocket completely will take a lot of time because their base is something of a labyrinth. If you follow this path, you will defeat every Rocket and collect every item in the area, and then defeat the mob boss leading this whole operation.
+
+Go south into the large hallway. To the west is a Rocket, and, in the room behind him, an Escape Rope. To the east there is a room guarded by another Rocket. There is nothing in this room except a strange door that you cannot open. This will be your exit from the hideout once you’re finished here. In between these two rooms you will find an area with many potted plants. Examine the bottommost plant on the right side to find a hidden PP Up. Now go down the stairs to the second level.
+
+You will now see one of the game’s most complex puzzles: directional pads. After you defeat the Rocket standing near the stairs, look at the area between the walls. Directional pads have arrows on them, and if you step on one, you will be launched in that direction, traveling in a straight line until you either hit another directional pad, or a stop pad that looks like four squares.
+
+Here is a path through this maze that will enable you to collect every item within it:
+
+    Step on the bottom of the two tiles pointing left. You will hit a stop tile in the room’s northwest corner. Backtrack the way you came in on foot, and you will reach a nook containing a Nugget.
+    Step on any of the directional pads to return to where you were before. You might see an item ball hidden in a cranny, and you can get there on foot by going south. This is a Moon Stone.
+    Step on the topmost of the three right-pointing directional pads. You will land near another item ball, containing TM 07 (Horn Drill). Team Rocket is sure involved in some profitable scams for them to have this many valuable items just laying around!
+    Return again to the northwest corner. Of the two right-pointing pads here (not the one that you just stepped on), take the top one. When you land, go straight east. Once you stop, go west. You will now find two left-pointing pads on top of each other. For the fastest path towards clearing out Team Rocket’s hideout, take the top one and skip the next step. If you want to spend a little extra time to get an additional item, choose the top one.
+    Step on the bottom left-pointing pad and you will be flung close to the wall. Go southeast, and you will see two pads; take the right one. This will bounce you near a Super Potion. The only way out of this area will land you all the way back near where TM 07 was. Return to where you were at the end of step 4.
+    Step on the sole right-pointing pad. Follow the path after you stop and you will reach a room with stairs going up.
+
+These stairs will take you to a large room on the entry level. There are two Rockets and a Hyper Potion here. To get out of the maze, step on the pad that leads up and you will be deposited back at the entrance. Now go down to the next floor.
+Getting the Lift Key
+
+When you arrive, go south to find a Rocket and TM 10 (Double-Edge) in a dead end. Go to the west, through the small opening… and find another directional pad maze. Fortunately, this one is much simpler.
+
+    Where there are two pads pointing in opposite directions, go left. Immediately south of there is another pad. Step on that one, then once you land, go south from there and you will land at a nook containing a Rare Candy.
+    Unfortunately, from here you’ll have to restart the maze from the beginning, as that is the way the the only directional pad leading out will take you. Get back on the left-pointing pad, then go south until you reach the next pad.
+    Once you stop, backtrack through the zigzag path and you will find four right-pointing directional pads arranged in a diagonal line. Take the one that is second from the bottom; the other three will dump you back where the Rare Candy was.
+
+As you exit the maze you’ll fight a Rocket. Head south from him through the opening, then go northeast, where you will find another set of stairs. Take them down to the bottommost floor.
+
+In this corridor, go south. You will find a room where there is a table with an HP Up on it. Now go north. Go around the table to the south and you will find TM 02 (Razor Wind).
+
+The next Rocket you fight was instructed to guard a valuable item: the Lift Key. Problem is, where’s the lift to use it on?
+Using the Lift Key
+
+Return to the floor where the first giant pad maze was. Traverse the maze as before until you get to the stairs, but don’t take them this time. Continue on instead and you will reach an elevator. This elevator will take you to the first, second, or fourth floors of the hideout. First, let’s make a shortcut. Choose the first floor and go north past the Rocket. Once you defeat him, the large metal door you saw earlier will open, allowing you easy access to the entrance of the base. Now might be a good time to use the Pokémon Center, as we have a boss coming up. Once you are prepared, return to the elevator and choose the fourth floor.
+
+Look at what we have here: a locked door with two Rockets guarding it. Something important must be inside. Before you take them on, check the room to the southwest to find an Iron. Defeat both Rockets and the door will open, allowing you to invade the boss’s office.
+
+Boss — Giovanni (•2871 reward)
+
+    Level 25 Onix
+    Level 24 Rhyhorn
+    Level 29 Kangaskhan
+
+Once you teach Team Rocket’s leader a lesson, he will give you something called the Silph Scope. Giovanni will then escape, to plot and scheme another day. Before you leave the area, examine the computer Giovanni was standing in front of to find the last item here, a Super Potion.
+
+
+Pokémon Tower
+Celadon City
+
+With Team Rocket now gone, you can turn your attention to the Silph Scope you received. This item allows you to see and fight the Ghost Pokémon in Pokémon Tower. That will be our next stop; however, don’t head back down Route 7 just yet. Leave Celadon City from the west instead.
+Route 16
+
+A giant Snorlax blocks the road here too, but don’t pay attention to it. Shortly before it you will see a Cut tree. Demolish it and head through the building to the small house at the back. Inside a woman will give you HM 02 (Fly), one of the most useful moves in the game. If you teach it to one of your Pokémon, you will then be able to use it outside of battle to teleport to any city you have already visited on foot. If you don’t have a Pokémon that can use it, you can catch a Doduo in the tall grass nearby. Fly back to Lavender Town.
+Lavender Town
+
+Once you arrive, stop by the Poké Mart and pick up a couple of Max Repels if you like. Then head straight for Pokémon Tower.
+Pokémon Tower
+
+This circular area has seven floors; the first is merely a lobby. You will need to climb all the way to the top. The ground floor staircase is to the east, at the 3 o’clock position.
+Second Floor
+
+As you enter this floor, you will encounter your rival. As usual, he will challenge you to a battle. His team is more varied at this point.
+
+Boss — Rival
+
+If you chose Squirtle at the beginning of the game:
+
+    Level 25 Pidgeotto
+    Level 23 Gyarados
+    Level 23 Growlithe
+    Level 20 Kadabra
+    Level 25 Ivysaur
+
+If you choose Bulbasaur at the beginning of the game:
+
+    Level 25 Pidgeotto
+    Level 23 Exeggcute
+    Level 22 Gyarados
+    Level 20 Kadabra
+    Level 25 Charmeleon
+
+If you chose Charmander at the beginning of the game:
+
+    Level 25 Pidgeotto
+    Level 23 Growlithe
+    Level 22 Exeggcute
+    Level 20 Kadabra
+    Level 20 Wartortle
+
+After you defat your rival, head west then south to reach the stairs to the next floor.
+Third Floor
+
+From here on you will start encountering wild Ghost-types. If you tried to climb this tower without the Silph Scope, you would be unable to harm (or even identify) the Pokémon here. First, head east and north past an enemy Trainer to reach an Escape Rope. Head east and south from the stairs, then you have three paths to take. Two of them contain an enemy Trainer. All three paths meet at the stairs to the next floor.
+Fourth Floor
+
+The maze gets even more complicated. In the southwest corner of this “room” you will find an Elixir. Take the bottom of the two paths to the west and you will pass an Awakening. If you go due south from there, past an enemy Trainer, you will find an HP Up. Then go northwest to find another enemy Trainer and the stairs. (If you were to take the top of the two paths, you would find a path straight to the stairs without encountering any enemy Trainers or items.)
+Fifth Floor
+
+Follow the path to the east. You will see a room to the north; it contains an enemy Trainer and nothing else. Soon you will see a square area containing sixteen small squares. If you step onto this mat, your Pokémon will be fully healed, just as if you visited a Pokémon Center. East of the mat is an enemy Trainer blocking a direct path to the stairs. If you go west from the mat and follow the path, you will pass an enemy Trainer and another side room to the south. Unlike the last one, this room contains a valuable Nugget in addition to an enemy Trainer.
+Sixth Floor
+
+You’re almost at the top here. Head south past an enemy Trainer to find an X Accuracy tucked away in a nook. Follow the path north past two enemy Trainers to find an item ball blocking your way; it is a Rare Candy.
+
+If you keep following the path from here you will find a last set of stairs; however, something will be standing in your way. There is a hardcoded encounter with an enemy Level 30 Marowak here. If you came here early (before getting the Silph Scope), you would be unable to defeat this Pokémon and could not proceed to the top floor. Interestingly, this Pokémon is not considered wild because it cannot be caught. You can throw all the Poké Balls you want at it; it will dodge each and every one (even a Master Ball, were you to have any). Just defeat it and move on.
+Seventh Floor
+
+Here you will find a straight hall containing three Rockets. Defeat all of them and talk to the man at the end, who turns out to be the missing Mr. Fuji. He will explain the strange Marowak downstairs as the ghost of a mother Pokémon that was apparently killed by Team Rocket. He will then give you the Poké Flute. This item can be used to immediately wake any sleeping Pokémon; you can get rid of those Awakenings now. Even more usefully, this is the only thing that is able to wake those sleeping Snorlax that were blocking your way earlier.
+
+
+To Fuchsia City
+Lavender Town
+
+Now that you have the Poké Flute, you can finally remove the Snorlax that are blocking your way south. There are two paths to take that both end in the same destination (Fuchsia City), going west from Celadon or going south from Lavender Town. The Celadon path is much faster, but there is an important item to be found on the Lavender Town route, as well as many more enemy Trainers to battle against.
+West Path to Fuchsia
+
+If you go west from Celadon, close to where you got the Fly HM, you will see that giant Snorlax sitting in the middle of the road. Step up to it, go into your Bag, use the Poké Flute, and get ready to battle; Snorlax is not happy you woke him from his nap. There are only two catchable Snorlax in the game; this one and the one on Route 12. Few players continue to adventure on foot when they can ride a Bike. If you for some reason do not have one, you will need to Fly to Cerulean City and get one now. You cannot pass through the guardhouse on foot.
+
+Past there you will find a skinhead gang lounging around. After defeating the six enemy Trainers that compose this gang, head south.
+Route 17
+
+This long, vertical Route is on a steep slope. If you stop moving, you will be dragged downward unless you hold the A or B buttons. However, there really isn’t any reason to spend much time on this Route. There are no interesting Pokémon in the tall grass, and all the items are hidden (use the Itemfinder to locate them). There are, however, ten enemy Trainers. Continue south.
+The hidden items
+
+    There is a Rare Candy hidden in the center of the Route’s only patch of grass.
+    Towards the top of the middle bridge segment (water on both sides) is a Full Restore.
+    If you search south of the point where the center bridge joins with the left bridge, you can find a Max Revive.
+    If you take the east bridge and look around halfway down, you will find a PP Up.
+    A Max Elixir is near the small straight left-right bridge at the bottom of the Route.
+
+Route 18
+
+Once you reach the bottom of the Cycling Road, go right through the gatehouse. There are three enemy Trainers in the patch of grass south of the exit. As with Route 17, there are no Pokémon in the tall grass here that are worth catching. Go east and you will be in Fuchsia City.
+East path to Fuchsia
+
+Head south from Lavender Town.
+Route 12
+
+Route 12 is made entirely of bridges over the water. There are some maze-like segments here you will have to navigate. You will be able to find TM 39 (Swift) by talking to the people in the northernmost building you pass through on this Route. You might see an item ball on a small segment of bridge that is completely surrounded by water. This is TM 16 (Pay Day), a quite useful move, but you will not be able to get it until you are able to Surf, which requires the next Gym Badge. Be sure to come back here.
+
+You can now do something about the Snorlax that is sleeping at a very inconvenient spot, blocking off two different Routes. If you go up to it and use your Poké Flute, it will awaken and battle you. There are only two Snorlax in the game (this one and the one on Route 16), so be sure to catch it if you want it. If you go west from here, you will be on Route 11, heading back towards Vermilion City. (If you go west, there is a Hyper Potion hidden on the first tree on the bottom that sticks out into the road.)
+
+Continuing south past the Snorlax, you will pass another house. Be sure to enter this house and speak with its owner. He will give you the Super Rod, which is used just like the Old Rod, but can be used to catch Pokémon other than just lousy Magikarp. Past there you will see a Cut tree blocking off an enemy Trainer and an Iron.
+Route 13
+
+This Route is a long maze filled with enemy Trainers — no fewer than fifteen! To get to the Route’s patch of tall grass, you will need Cut.
+
+To the left of one of the Trainers closest to the exit (where there is a gap in the fencing), examine that gap and you will find a hidden PP Up. If you go to the east, you will see a similar gap in the fencing at the end of a dead-end passage. Examine this gap and you will find a hidden Calcium.
+Route 14
+
+This Route is a short distance south. It is also densely populated by enemy Trainers; looks like another biker gang. You will need Cut to access this route’s patch of tall grass.
+Route 15
+
+There are two ways you can go through this Route. If you remove the Cut tree when the path turns west, you will find a long, straight, unremarkable stretch of land that extends all the way down the Route. There is one enemy Trainer about halfway down and TM 20 (Rage) at the end.
+
+If you take the south path, however, you will find more tall grass and ten enemy Trainers all clustered together. To this Route’s western exit is Fuchsia City.
+
+
+Soul Badge
+Fuchsia City
+
+This large city hosts the Safari Zone and the next Pokémon Gym. However, you will also need to collect two more HMs that you cannot complete the game without. One of them is Strength, which allows you to move certain heavy boulders outside of battle. The other is Surf, which lets you move on water. Both of these HMs require a trip to the very back of the Safari Zone.
+
+The Safari Zone is a series of four interconnected areas connected in a circle; you must traverse the entire area counterclockwise until you reach a dead-end. There you will find Gold Teeth on the ground, and a man inside the nearby house will give you HM 03 (Surf). This is difficult to accomplish in the time given to you when you enter; you may need to go through the Safari Zone twice. Surf lets you take to the oceans and finally travel over water.
+
+What good are the Gold Teeth? In a house in the southeast corner of town you will find a man who cannot speak clearly. Give him the Gold Teeth and he will reward you with HM 04 (Strength). Strength can be used to push large, round boulders out of your way. Why not try it out on the one in this very room? Behind it you will find a Rare Candy.
+
+In the house next to him is a man who will give you the Good Rod. This works like the Old Rod, except that it can catch something other than Magikarp. If you took the east path to Fuchsia, you will already have the Super Rod, which is even better.
+Fuchsia City Gym
+
+This Gym is very deceptive. It looks like a number of enemy Trainers spaced out in an empty room. However, you cannot simply walk up and battle them, because there are invisible walls all over the place! The Trainer to your left when you enter is optional. To reach the Gym Leader, go to the Trainer to the right of the entrance, step to the right of him, and go north. You will encounter two more enemy Trainers. When you reach the back wall, walk behind the back of the enemy Trainer all the way to the left-hand wall, then go down. You will quickly run into an obstacle. You can bypass this by moving towards the enemy Trainer. After him, the path is simple. When you reach the end you will be standing next to an enemy Trainer in the center of the room. This is Koga, the Gym Leader.
+
+Boss — Koga (•4950 reward)
+
+    Level 37 Koffing
+    Level 39 Muk
+    Level 37 Koffing
+    Level 43 Weezing
+
+After you defeat Koga, you will receive the Soul Badge. Now that you have this Badge, the Defense stat of all your Pokémon will be boosted for the rest of the game. You will also be given TM 06 (Toxic). You now need to make your way back out by retracing your steps.
+
+
+Saffron City
+
+Now that you have five Badges, it’s time to go explore Saffron City, that big city in the middle of the region that you couldn’t get into. Go to the Celadon City Department Store and buy a drink item from the vending machines on the roof (any one will do). Then go into one of the guard posts at the edge of the city. Give the drink to the guard, and you are granted free access to the city. (You only have to do this once, and then all four of the gates will be available to you.)
+
+Team Rocket is back, and they are occupying the city! Team Rocket grunts are blocking the entrance to the Gym and one of the houses in the northwest corner of the city. Oddly, this city has two Gyms, and only the one of the right is blockaded. Consider entering the one to the left.
+Fighting Dojo
+
+Here, you must defeat five enemy Trainers. All five of them use only Normal-type and Fighting-type attacks, which means that a single Ghost-type Pokémon can defeat every Pokémon in this Gym without sustaining a hit itself. Once the battles are complete, you will be offered a choice of two Poké Balls. One contains Hitmonchan, the other Hitmonlee.
+Other things in town
+
+The other house you can enter at this point in time is one on the southeast corner of town. Talk to the man inside and you will receive TM 29.
+Silph Co. Building
+
+This eleven-floor skyscraper is one of the most confusing areas in the game. Inside you will find squares with diamonds on them; these are warp pads. Step on a warp pad and you will be transferred to the other warp pad of that pair, somewhere else in the building. Warp pads are two-way.
+
+Take note that on the ninth floor you will find a place to heal your Pokémon, although you need to get the Card Key before you can use it.
+Getting the Card Key
+
+The first floor is eerily quiet. In the northeast corner is an elevator and some stairs. The elevator can take you to any floor of the building on command. The President of Silph company is being harassed by Team Rocket, and is on the eleventh floor. However, if you go straight up to eleven, you’ll find one enemy Trainer and a dead end. Getting to the President’s office is going to be tricky.
+
+Take the elevator to the fifth floor. There’s a Rocket grunt to the very east and a Scientist at the west, near a locked door. Ignore the two warp pads you see. You need only take one warp pad to get the Card Key. At the south end of the hallway, past two locked doors, is a path to the east. Unfortunately, the Rocket grunt here is standing in your way and will not move. Your only choice is to step on the warp pad here.
+
+You will end up on the ninth floor. However, we don’t need to stay here. Step right back on the warp pad to be returned to the fifth floor. You can now proceed east. You will find the Card Key sitting on the floor here. With this item, you can open all the locked doors in the building. This long narrow corridor dead-ends in the body of a Rocket grunt. If he moved north to fight you when approached earlier, you can exit that way; otherwise, return to the ninth floor.
+
+At this point, you have two choices. You can run Team Rocket out as quickly as possible; for that, skip to the Saving the President section below. Otherwise, you can clear out every floor of the building methodically. Note that we will not be using any warp pads while we do this.
+Second floor
+
+South of the stairs are a Rocket grunt. Go west and you’ll reach a big open room; there is another Rocket standing between the two tables. To the east of him is a Scientist; past him is a warp pad. To the west of the two big tables are two locked doors; the top one contains a warp pad and TM 36; the bottom one contains a warp pad and a Scientist.
+Third floor
+
+There are four warp pads in this symmetrical area, one in each of the four corners. The only interesting things on this floor are in the middle. You’ll fight a Rocket, then encounter a locked door on the left. (To the right is a dead end with a warp pad.) Past that door you’ll find a second door. Past that you will be in a room with a warp pad, a Scientist to fight, and a Hyper Potion on the ground.
+Fourth floor
+
+To the south of the stairs/elevator is a large room containing a Rocket. Follow the path to the left and you’ll find another Rocket in the middle of the room. The room to the right contains a locked door; behind it you will find a Scientist. Behind the locked door on the left you will find a room filled with boxes; you will find a Full Heal, a Max Revive, and an Escape Rope sitting on the floor. (The only thing of interest in the far side of the room is a person, but they’re not a Trainer.)
+Fifth floor
+
+You’ve already been on this floor, but now you can get through the locked doors you saw earlier. Inside the big central room is a locked door, but there is nothing of interest behind it. In the room on the top-left you will find a Protein; at the far some boxes in the bottom-left room is TM 09. You will find a Rocket at the very top-right corner of the level (although you may have already battled him), a Scientist in the middle room near the locked door, a Scientist near the first locked door, and a Rocket blocking your way to where the Card Key was; you’ve already battled him.
+Sixth floor
+
+There are a number of people on this floor, but only three of them want to battle you. You will find a Rocket guarding the entrance to the central room, which itself contains no Trainers. You’ll find another Rocket guarding the other entrance, and a Scientist on the left near a locker door. Behind this door you will find an HP Up and an X Accuracy.
+Seventh floor
+
+You’ll find your first Rocket in the hallway near the stairs. In the locked room behind him you will find TM 03; the room beyond that contains a Rocket and a warp pad. There is a Rocket standing near the counter in the room to the left; there is nothing of interest behind the locked door he is guarding. If you follow the hallway all the way to the end, you will find a Scientist who wants to fight and a Calcium in the corner.
+
+You’ll probably notice the sealed-off room in the top-left corner of the floor. You’ll visit this room on the way to defeat Team Rocket’s leader.
+Eighth floor
+
+You’ll find a Rocket right by the elevator. Follow the path to the left and you’ll find another Rocket standing at a fork in the road. Right is a dead end, so go left, then cut upwards past a warp pad. At the end of this path you will find a Scientist and a warp pad. There is only a warp pad behind this locked door. (As a side note, the warp pads outside and inside this locked room transfer to each other. Not terribly useful.)
+Ninth floor
+
+As mentioned above, you will find in the bottom-left corner of the area a woman standing near five beds; if you talk to her, your Pokémon will be healed as if you went to a Pokémon Center. There is a Rocket at the bottom of the center hallway next to the locked door, a Scientist in the room to the bottom-right (which can be accessed both through the locked doors and by following the path around the side), and another Rocket guarding the path to a warp pad behind a locked door near the healing lady.
+Tenth floor
+
+You’re getting to the very top of the tower. On this floor, much smaller than the ones below, you will find a Scientist loitering near the stairs. South of him is a room containing a warp pad and a locked door; all you will find behind it is two more warp pads. Follow the hallway to the left instead, into the room with all the boxes. You’ll have to fight a Rocket to get in, but if you follow the path, you will find a Carbos, a Rare Candy, and TM 26.
+Eleventh floor
+
+You’ve finally reached the top of the tower! Unfortunately, while the CEO of Silph Company awaits rescue in the center room, you cannot get in there. You’ll have to use warp pads to rescue the CEO. There are no Trainers to battle here.
+Saving the President
+
+Be sure to heal up before you start out, because you’ll have to face not one but two bosses. You will use warp pads to accomplish this task.
+
+Go to the ninth floor, where the healing lady is. There is a door just north of her with a Rocket in it; you will need to step on the warp pad past him. You will appear on the seventh floor — and your Rival is there, itching for a fight!
+
+Boss — Rival (•2600 reward)
+
+    Level 37 Pidgeot
+    Level 38 Exeggcute
+    Level 35 Gyarados
+    Level 35 Alakazam
+    Level 40 Charizard, Blastoise, or Venusaur (depending on which starter you chose at the beginning of the game)
+
+There is another person in the room here. Be sure to talk to this person because they will give you a Lapras if you have an open spot in your party! (Don’t worry if you can’t get the Pokémon now. You can return to receive it shortly.) Step on the warp pad beyond her.
+
+You will end up on the eleventh floor, in a different area than what can be accessed via the elevator. One final Rocket defends the President’s office, behind a locked door.
+
+Giovanni returns! After you gave him a good trouncing in Celadon City, Giovanni has launched a new plan, which you are currently in the process of ruining. Don’t show him any mercy.
+
+Boss — Giovanni (•4059 reward)
+
+    Level 37 Nidorino
+    Level 35 Kangaskhan
+    Leve 37 Rhyhorn
+    Level 41 Nidoqueen
+
+After you send Giovanni packing for a second time, he and all the Rocket grunts will disappear from the building forever. Talk to the man sitting on the couch; he is the President of Silph Company. He is eternally grateful you terminated the “discussions” he was having with Team Rocket. As thanks, he will give you the most valuable item in all of Pokémon: the Master Ball. No matter what Pokémon you throw at it, the Master Ball will catch it without issue. You only get one of these, ever!
+
+Near the door you’ll find a computer on a desk; this works just like the computer in a Pokémon Center. Put the Master Ball in item storage; you’ll want to save it for Mewtwo at the very end of the game. If you couldn’t pick up Lapras because you had six Pokémon with you, you can deposit one here and double back.
+The Saffron City Gym
+
+Now that Team Rocket has been driven out of Saffron City, there is nothing stopping you from getting your fifth Gym Badge. Sabrina’s Gym is a maze of warp pads. There are seven enemy Trainers here, but you’ll have to get lost in the maze in order to defeat them all.
+
+To get to Sabrina from the entrance, take the one warp pad at the entrance, then take the top-left warp pad in the room you find yourself in; take the top-right warp pad in this room; then take the bottom-left warp pad, and you will reach Sabrina.
+
+Boss — Sabrina (•4257 reward)
+
+    Level 38 Kadabra
+    Level 37 Mr. Mime
+    Level 38 Venomoth
+    Level 43 Alakazam
+
+After you defeat Sabrina, you will earn yourself the Marsh Badge. Now that you have this Badge, Pokémon you trade into the game up to level 70 will obey your commands. You will also receive TM 46.
+The Mimic Girl
+
+There is one last thing to do after you have driven Team Rocket out. In the northwest corner of town, a Rocket grunt was blocking a house. Now that you can enter the house, do so, and you will find an annoying person called the Mimic Girl. To speak rationally with her, you must give her a Poké Doll (you can buy one at the Celadon City Department Store). If you do this, she will give you TM 31. You can also find a Nugget hidden on the table near her computer.
+
+
+Cinnabar Island
+
+There are only two Badges left! The next one is on Cinnabar Island, but where is it? Remember that tiny patch of water you saw all the way back in Pallet Town? That’s the way you need to go. You’ll need to be able to Surf, so make sure you have that HM and that you’ve taught it to one of the Pokémon in your party.
+Route 21
+
+Apart from a small patch of tall grass at the very northern end of the Route, this part of Kanto is all water. You will find no fewer than nine enemy Trainers located here. Four of them are on tiny islands and five of them are swimming through the water.
+Cinnabar Island
+
+This place is tiny! You have the Pokémon Center, the Poké Mart, the Pokémon Lab, the Old Mansion, and the Cinnabar City Gym. There are no other buildings in this area.
+
+Let’s start looking in the Pokémon Lab. One of the scientists within will give you TM 35 (Metronome). There are several in-game trades available here; talk to the people inside the lab to begin them.
+
+    Electrode for Raichu
+    Venonat for Tangela
+    Seel for Ponyta
+
+Remember that fossil you chose all the way back in Mt. Moon? The last scientist on the right within the Pokémon Lab will restore it into a Pokémon. Give him the fossil, leave the lab, turn right around and go back in, and you’ll be able to pick up your new team member by talking to him again. If you give him the Dome Fossil, you will get a Kabuto. If you give him the Helix Fossil, you get an Omanyte.
+
+If you’re interested, you can Fly to Pewter City and Cut down the small bush blocking access to the right side of the museum. Inside you’ll find a man who gives you the Old Amber; this fossil restores into an Aerodactyl.
+
+Unfortunately, when you to to the Gym, you will find it locked up tight! The only place you’ve yet to explore is the Pokémon Mansion, so go there and start exploring.
+Cinnabar Mansion
+
+You will start off in a room with many pillars; search them all, as one contains a Moon Stone. Ignore the stairs at the end of the hall for now; instead go to the northeast and you will soon find an Escape Rope. Past here you’ll just find a locked door, so backtrack to the stairs and take them.
+
+Here you will find a strange statue (looks like a Nidoking). You’ll see many statues like this in the mansion. If you examine one, you will be prompted to flip a switch. Flipping one of these switches opens certain locked doors, and closes other ones. Due south of the stairs you’ll find an enemy Trainer in a dead end. Go up the stairs to the third floor. There is not much to do in the room you will find yourself in; battle the enemy Trainer and grab the Max Potion in the nook to the south. You will also find a Max Revive hidden at the end of the nook to the west. Now go back to the second floor.
+
+Head east on the second floor, then go north. (South is a dead end.) Go to the east and you’ll run into a locked door. If the south door is locked, then continue through the north opening and you’ll find a Calcium at the end of the path. If the north door is locked, then double back to the statue near the stairs and flip its switch first. Go to the northwest corner of the floor and you’ll find more stairs.
+
+On the third floor, go all the way to the east to find an Iron. Then double back to the statue and go south. You may find a locked door here. If so, use the statue to open it. After defeating an enemy Trainer, you will see two openings in the wall, into a grey void. These are ledges you can actually jump from. Take a leap of faith off the left gap and you’ll find yourself back on the first floor. (If you go through the right gap, you will end up on the second floor; there is nothing there except stairs to go up and try again.) You’ll land near an enemy Trainer. Past him you’ll find a Carbos and stairs down. Take them.
+
+Unlike the upper floors, the basement is huge and empty. Go northeast and you’ll run into a locked door; we’ll be returning here shortly. Go all the way to the west and you’ll find a Full Restore. You’ll pass a room to the south; head back there, defeat the enemy Trainer, and flip the switch. Now go out to the west and head back to the locked door, which is now open. You’ll find another enemy Trainer just beyond it. The first room you’ll pass is empty; the second contains a Rare Candy. TM 22 (Solar Beam) is sitting on a table. Just south of there you’ll find what we’ve been looking for this whole time: the Secret Key that gets us into the Gym.
+
+Grab that and go back up the stairs. Just to the north you’ll see an opening. (If you run into a locked door, go back and use the statue in the basement, but this shouldn’t happen if you’re following the guide.) Head east, then south to the opening, and go through it; you’ll find yourself back outside the Mansion. Hurrah!
+
+As a side note, if you explore the Mansion fully, you will find what look like open books sitting on tables. If you examine these, you’ll see some lore on how a Dr. Fuji used genetic engineering to clone the Pokémon Mew into the Pokémon Mewtwo. This has no effect on your journey, but it is an interesting read. There are four books in the mansion: in the northeast corner of the second floor, the southwest corner of the second floor, on the third floor in the room with the Max Potion, and in the basement in the small room with two doors. (Read them in this order and the story will make the most sense.)
+Cinnabar Island Gym
+
+Once you unlock the front door, you will be faced with a series of locked doors. Examine the machine to the left of the door and you will be asked a trivia question. If you answer it correctly, the door will open. If you answer it incorrectly, then you will be forced to battle a waiting enemy Trainer. However, if you talk to the Trainer straight off the bat and defeat them, you will not need to answer the question; defeating them also opens the door.
+
+Boss — Blaine (•4653 reward)
+
+    Level 42 Growlithe
+    Level 40 Ponyta
+    Level 42 Rapidash
+    Level 47 Arcanine
+
+After you defeat Blaine, you will receive the Volcano Badge. Now that you have this Badge, the Special stat of all your Pokémon will be boosted for the rest of the game. You will also be given TM 38 (Fire Blast).
+
+
+Legendaries
+
+You might think that you have explored the entire game by now, but you’d be wrong. There are two large out-of-the-way areas you have yet to visit. One of them, the Power Plant, contains Zapdos, the most powerful Electric Pokémon. Another, Seafoam Island, contains Articuno, the most powerful Ice Pokémon. We are going to catch both. Before leaving, buy as many Ultra Balls as you can afford; you will be using a large number of them.
+The Power Plant
+
+Fly to Cerulean City and go east towards Rock Tunnel. However, now that you can Surf, you will find a watery area to the north that leads around behind the rocks. At the end of this waterway is a large building: the Power Plant. This is a very large area, but it is actually a straight path. Be sure to explore every side room that you find, as several contain items. A Carbos is located right near the entrance. The second side room you encounter contains TM 33 (Reflect). The third contains TM 25 (Thunder). The fourth contains a Rare Candy and an HP Up. Beware, however: while it may look like there are far more items than this in the Power Plant, all item balls except the ones outlined above are really Voltorb in disguise. If you disturb one, prepare to battle! You will also find a hidden Max Revive in the first side room you pass, along with two Voltorb. The final side room, which is very small and contains a Voltorb, also contains a hidden PP Up.
+
+You’ll find Zapdos waiting for you in the very last room. Before you talk to it, save your game. When battling any Legendary Pokémon, you have one chance to catch it. If you defeat a Legendary Pokémon by mistake, it will vanish and you will never see it again. If this happens, reload the game without saving and try again. You catch a Legendary Pokémon just like you would any other Pokémon: knock its health low, give it a status condition if you can, and then start lobbing Poké Balls. It will take many tries to catch a legendary Pokémon, and every Ultra Ball you throw that Zapdos breaks out of is wasted.
+Seafoam Island
+
+Before you begin, you will need to get the Strength HM and teach it to a Pokémon. Seafoam Island is quite a maze, and you will need to move a lot of boulders.
+
+Fly to Fuchsia City and Surf south. If you go east from Cinnabar Island, you will be starting at the wrong end of the dungeon. (Were you to travel directly from Fuchsia to Cinnabar, you would have to go through Seafoam Island before you could reach Cinnabar Island, and it’s quite a hike.) Seafoam Island’s exterior is composed of two small cave openings, blocked off so that you are forced to go through the cave in order to get past. Before you enter, there is an enemy Trainer in the water to the south of the entrance.
+
+As you enter, you will find yourself in a large open space. While there are plenty of wild Pokémon, there are no enemy Trainers within the cave. Go northeast and you’ll see a pair of boulders and holes. In the lower level of Seafoam Island, there is running water that you cannot Surf across. The boulders will be used to block off the current so that you can Surf like usual. There are two boulders on the first floor you must push all the way down to the second basement to block off the current there. Once you do that, you can Surf across the water and find a series of ladders that leads you to the exit. If you are looking to catch Articuno, however, you’ll need to also move a second set of rocks and go into the cave in a different direction.
+
+Start off and push the rock into the hole. Go west, up the stairs, and past the ladder to find another boulder and hole. Push this boulder into the hole, then go down the ladder. This will bring you to an enclosed area with another hole. Push the boulder into that, then backtrack. Go down the ladder you passed before.
+
+You will arrive on a stone platform. Go down the steps, then east and north past another ladder. At the end you’ll find that boulder you’ve been moving, next to yet another hole. Push it down, then go back to where you first entered this level. To the left you’ll find another ladder down; descend and follow the path to that same boulder and yet another hole. Push one into the other, then backtrack. You can take either the ladder in the middle on the stony outcropping, or go southeast and down the ladder there; both lead to the same place. Go southwest from the ladder on the platform, or straight west from the other ladder, and go down yet again.
+
+You’ll end up near a number of boulders and two holes. You must solve this puzzle in order to catch Articuno. Head east then south to find some stairs that will lead you to this area. Push the boulder blocking off the small area all the way to the left, then push the boulder next to it into the hole. Go back to the two boulders sitting side-by-side. Push the right-hand boulder all the way up, then push the left boulder down, left three times, then down again into the hole.
+
+Backtrack to the ladder you entered this floor with. Go north from there and you’ll find a ladder leading to the deepest level of Seafoam Island. To get to Articuno, Surf on the water and go north to a stone platform. A Level-50 Articuno awaits. Save your game before battling him, then catch it the same way you caught Zapdos. If you can put Articuno to sleep, that might be helpful.
+
+Once you’ve caught Articuno, you still need to find your way to the exit. Go back to the ladder you entered from, then go northeast. You will find stairs down into more water and a ladder up. If you want, you can Surf on this pool and go to the southeast corner; you will find a small empty area that contains a hidden Ultra Ball. Go up the ladder and you’ll end up right next to another ladder; continue up. You will now find the boulder from earlier. Once you push it into the hole here, you are done pushing boulders. Backtrack past Articuno to the area where the four boulders were that you moved earlier. If you go east then north from the ladder leading up, then you’ll find some water. If all the boulders were moved as described, you can Surf on this water. (If not, you would be pushed by the current down to Articuno’s level.) Go southeast to the other set of stairs, then follow the path to reach the exit. There is one last enemy Trainer in the ocean just south of the area’s exit.
+
+
+Viridian City Gym
+
+You’ve got only one Pokémon Gym left! But where could it be? Think back to the very start of your adventure. There was a Gym in Viridian City, but there was a man standing in front of it saying the Gym is closed. Well, it’s not closed any longer. Fly to Viridian City and enter. If you caught Articuno, be sure to bring it; it wipes the floor with the Gym Leader’s team.
+
+Upon entering the Gym, you will discover the return of the directional pads last seen in Team Rocket’s hideout. I wonder if there is a connection… Anyway, start by stepping on the left-facing pads to the left of the entrance, against the wall. There is an enemy Trainer waiting to ambush you if you step on the upper pad. Past him, you will find two pads facing north; it doesn’t matter which one you take, because you’re guaranteed to run into another enemy Trainer when the path curves.
+
+After defeating him, you will find a split. The Gym Leader is at the northwest corner of the map. The path to the right looks like it might be helpful. Unfortunately, if you take the path to the right, you will find an enemy Trainer — and he is blocking your way forward. Rats. Go back to the wider area and go south. The directional pads will deposit you at the entrance.
+
+All well and good, but we still haven’t found the Gym Leader. It looks like you would be able to take the directional pad pointing north, but you would run into a dead end and be forced back the way you came. There is a small path with another directional pad interfering with your movement, and an item ball on the other side. We need to get that.
+
+So take the one remaining path at the northwest to enter a room with no fewer than three enemy Trainers. Defeat them all, but if you think you’ll be able to get to the Gym Leader by walking past them, you’ll be disappointed; that path is a dead-end. Backtrack and take the door at the northeast of this room. Go south here to grab that Revive you saw earlier; then go north. You’ll pass an enemy Trainer, and after that you will finally find the path to the Gym Leader — or not, as the enemy Trainer here will block your path after battling him. After you battle this Trainer, return to the entrance. Take that long straight north path we ignored earlier; with that Trainer gone, you now have an unimpeded path to the Gym Leader.
+
+And who is this Gym Leader, you might ask? None other than Giovanni, of Team Rocket infamy. This Gym and the Rocket hideout are the only two places in the game where directional pads appear. Giovanni is rather fond of those.
+
+Boss — Giovanni (•4950 reward)
+
+    Level 45 Rhyhorn
+    Level 42 Dugtrio
+    Level 44 Nidoqueen
+    Level 45 Nidoking
+    Level 50 Rhydon
+
+This guy talks a good game, but he’s really a pushover. If you teach a Water-type Surf (and it doesn’t even have to be that strong a Water-type; a level-30 Gyarados or Vaporeon would work), you will walk all over Giovanni’s team. If you brought Articuno instead, use that; Giovanni will fall even faster.
+
+After you defeat Giovanni, you will receive the eighth and final Badge in the game, the Earth Badge. Possessing this badge ensures that any Pokémon, of any level, from any source, will obey you. You will also receive TM 27 (Fissure), an impractical if impressive one-hit KO move.
+
+
+Victory Road
+
+Now that you have all eight badges, it’s time to go to the Indigo Plateau and challenge the Elite Four. But first, how do we get there?
+
+Go west from Viridian City onto Route 22. You’ll run into your rival here.
+
+Boss — Rival
+
+    Level 47 Pidgeot
+    Level 45 Rhyhorn
+    Level 45 Gyarados, Exeggcute, or Growlithe
+    Level 47 Growlithe, Gyarados, or Exeggcute
+    Level 50 Alakazam
+    The trainer’s starter from way back in Pallet Town, fully evolved, at Level 53.
+
+Before you leave, be sure that you have lots of Ultra Balls, because we will encounter a legendary Pokémon during the course of our travels. At the west side of Route 22 you will find a large building. Go through it onto…
+Route 23
+
+The final Route in the game! Yay! And what a disappointment. This Route is extremely large and completely empty. The only patches of tall grass in this Route (towards the end) contain only Spearow, Ekans, and Sandshrew and their evolved forms. These are Pokémon we’ve seen a thousand times elsewhere. However, this Route is one of only two places (the other being Seafoam Island) where you can find wild Ditto. Pick one up if you want.
+
+Go north, past each of the security guards. You’ll need to Surf for a bit around the middle of the Route. Despite this area’s general boringness, there are three hidden items to obtain. Somewhere near the small square island in the middle of the water, you will find a Max Ether (although you can only pick it up if you are in the water). Immediately after you reach land again, you will see a patch of tall grass leading to an empty area. If you examine the left tree of this empty area, you will find an Ultra Ball. A Full Restore is hidden near the game’s final patch of grass at the north end of the Route.
+
+But you cannot just walk in to the Pokémon League. Trainers desiring to become the very best must prove themselves by traversing Victory Road. Let’s do so.
+Victory Road proper
+
+You thought Seafoam Island was bad? This cave is even bigger, and the Pokémon here are at an even higher level. Also unlike Seafoam Island, you will find enemy Trainers here, on their journeys through the cave. Here is how you get from one door of this “small building” to the other. Be sure you have a Pokémon that knows Strength, because you’ll need to push more boulders around.
+
+Start by going to the left. Follow the path to the end and you will run into your first boulder. This is a kind of “exit only” barricade. If you were to try to push it north, it would get stuck and bar the path permanently. If you are on the other side of this rock, you can push it south for a quick path to the exit (which might be rather important shortly).
+
+The way forward is to climb the stairs onto the rocky platform and go east. Easy, right? Unfortunately, Victory Road features barricades, like the run you’ll run into here. The only way to remove these barricades is by pushing switches, but the switches here are too heavy for you to press by standing on them. You will need to move a boulder onto a switch before you can progress further.
+
+There is such a boulder right at the bottom of the stairs. Push it to the right, being careful not to knock it against a wall such that you can’t push it in the correct direction. When you get to the switch, a rock inconveniently blocks your being able to push the rock there. Instead, push it up, right, then down, and you will remove the barrier.
+
+Follow the path and you will reach a fork. Go to the right and you will find a boulder. Push it forward to find two item balls. The one on the left is a Rare Candy. The one on the top is TM 43. No matter which one you choose, you’ll have to block off the other one with the boulder to get to it. Choose one and double back.
+Information
+	
+If you want to get both of these items, you can leave the cave from the main entrance and return; this will restore all boulders to their initial positions. Unfortunately, this means you will need to push the boulder onto the first switch again.
+
+If you go left at the fork, you will run into an enemy Trainer. Follow the path past another enemy Trainer to a ladder. Use it.
+The second floor
+
+When you get here, you will see a boulder to the north; this is another “exit only” boulder. Go south instead. Push this boulder onto the switch, which is at the southwest corner set against the wall. Once you do this, you can go up the stairs and follow that path. You’ll pass an enemy Trainer.
+
+Past the second enemy Trainer is the ladder that leads to the exit. Hooray! Except you can’t get to it until you activate another switch. Go down the stairs, then west. You’ll find the switch and, at the end, a Rare Candy. Going east from the stairs leads to a narrow passageway. There is a switch here — but no boulder to go with it. How will you exit the cave? Read on…
+
+Past the narrow passageway is a square room with an enemy Trainer and a Full Heal. There is also a ladder here. Ignore it for now and continue at the northwest; you will find another enemy Trainer and TM 17 at a dead end. Now go up those stairs.
+
+Go north and you’ll see a boulder; ignore it for now. The east path holds an enemy Trainer and a Max Revive. Go to the north wall, then go west at ways. At the end you will find TM 47 and a switch. Ignore the switch and go down — you’ve got a Legendary Pokémon to catch!
+
+This room has an enemy Trainer standing next to a rock, and a Guard Spec past him. This rock contains a free Ultra Ball. Grab it, you’ll need it. Due south of the Guard Spec you will find a Level 50 Moltres. Again, save your game before battling him. If you defeat Moltres by accident, he will disappear and never return, so restart your game without saving to try again. Once you’ve caught him (if you’re interested), backtrack up that ladder.
+
+Backtrack all the way to that lone boulder in the middle of the room. You’ll need to push it north two tiles, then all the way to the left. You will need to guide the boulder through the rocks at the end to depress the switch. Backtrack again to the ladder down to the second floor, then go west and up the stairs on the rocky platform. Defeat an enemy Trainer, then keep going. Were you not to have pushed that rock onto the switch, you would be stymied by a barricade.
+
+Keep following the path and you will see two enemy Trainers. Past them is a room with two an “exit only” boulder you can push for a shortcut back. You will find a boulder and a hole. Put one into the other, then jump after it.
+
+You’re almost home. Push this boulder all the way to the left onto the switch you saw earlier that had no boulder near it. Once the barricade disappears, follow the ladder path straight to the exit. In the very last room, you’ll find a Full Restore hidden in the rock.
+
+
+Elite Four
+
+You’ve finally reached the end — the Elite Four, the four strongest Trainers in the entire game. If you can defeat all of them, you will become the new Champion and beat the game. However, there is one caveat to this: you must battle the Elite Four with no access to a Pokémon Center between battles. And if you lose to one of these Trainers, then you must restart your battles back at the beginning. Purchase all the healing items you can afford, grab those Ethers and Elixirs, because this is the one place in the game where PP depletion becomes a real worry, and head on in.
+
+Boss — Lorelei (•5544 reward)
+
+    Level 54 Dewgong
+    Level 53 Cloyster
+    Level 54 Slowbro
+    Level 56 Jynx
+    Level 56 Lapras
+
+Your best bet here is an Electric type, so taking Zapdos might be a good idea. Only Jynx would pose a problem to such a strategy (it is Ice/Psychic), so a powerful Fire-type would be a good call. If you have Fighting, that will be super-effective against the Dewgong, Cloyster, and Lapras.
+
+Boss — Bruno (•5472 reward)
+
+    Level 53 Onix
+    Level 55 Hitmonchan
+    Level 55 Hitmonlee
+    Level 56 Onix
+    Level 58 Machamp
+
+Zapdos will come really handy here also. Just use Drill Peck and you’ll overcome his three Fighting-type Pokémon. The two Onixes can be quickly defeated by copious amounts of Surf.
+
+Boss — Agatha (•5940 reward)
+
+    Level 56 Gengar
+    Level 56 Golbat
+    Level 55 Haunter
+    Level 58 Arbok
+    Level 60 Gengar
+
+This boss is kind of a joke. Agatha is notorious for using Dream Eater over and over again when your Pokémon is not asleep, meaning it does nothing. She also switches her Pokémon out more-or-less at random. An Alakazam or Dugtrio would be very powerful here, although you’ll need something non-Ground to deal with Golbat.
+
+Boss — Lance (•6038 reward)
+
+    Level 58 Gyarados
+    Level 56 Dragonair
+    Level 56 Dragonair
+    Level 60 Aerodactyl
+    Level 62 Dragonite
+
+First of all, the two Gyarados are four-times-weak to Electric. Zapdos should finish them. Otherwise, this may well be your first encounter with Dragon-type Pokémon. If you brought Articuno, then Lance can’t do a thing to stop you. Other Ice-type attacks will be extremely effective.
+
+So you’ve defeated the Elite Four. Is your name going to go down in history? Not quite yet…
+
+Boss — Rival
+
+    Level 61 Pidgeot
+    Level 59 Alakazam
+    Level 61 Rhydon
+    Level 61 Gyarados, Exeggcutor, or Arcanine
+    Level 63 Arcanine, Gyarados, or Exeggcutor
+    Level 63 Blastoise, Venusaur, or Charizard
+
+The Rival will always start with Pidgeot, then Alakazam, then Rhydon. Zapdos would again come in really handy, easily defeating Pidgeot. Anything with Surf can easily take out Rhydon. The Alakazam, on the other hand, is nasty. It knows Recover, so it can restore half of its HP up to twenty times. Furthermore, none of the usual elemental attacks are super-effective against Alakazam; the only Pokémon that would help in this way is, believe it or not, Parasect.
+
+Once you manage to defeat those first three Pokémon, the next Pokémon depends on which starter you chose back in Pallet Town. If you chose Charmander, then he has a Gyarados, an Arcanine, and a Blastoise. If you picked Squirtle, he has an Exeggcutor, a Gyarados, and a Venusaur. If you chose Bulbasaur, then he has an Arcanine, and Exeggcutor, and a Charizard. Zapdos works once again against Gyarados. If you picked Sqirtle, then the powerful Ice-type move that probably took down Lance would also be effective against Exeggcutor and Venusaur. Zapdos can be a powerhouse here when using its non-Electric-type attacks.
+
+And that, once your rival’s last Pokémon falls, will be that! Congratulations are due; you just beat the game.
+
+
+Unknown Dungeon
+
+After the credits roll, when you continue your game you will find yourself in your old room in Pallet Town. All your Pokémon are still there and still just as powerful. From here on out, you can rebattle the Elite Four whenever you want. (If you’ve been defeating every enemy Trainer on every map, this is now your only way of acquiring funds.) But there is still one last thing you have yet to do…
+
+Fly to Cerulean City. Stop at the Pokémon Center and take out that Master Ball you’ve been saving; you’ll need it. Go north to Route 24, and surf southwest, following the path of the bridge. You will reach a small area with a cave. If you were to access this area any time before becoming the Champion, you would find someone here standing in your way. But now you are the Champion, and you now have authorization to enter the most complex cave in the game.
+
+The Unknown Dungeon is a big scary area, filled with high-level wild Pokémon. If you are playing Pokémon Yellow, then no guidance is necessary for this dungeon; it is a simple linear path, back and forth and up and down. If you are playing Pokémon Red or Blue, read on.
+
+Go up the stairs to the first ladder, leading up. If you want a PP Up, then go up it and go through the maze; you will emerge at a separate ladder not far from here. Otherwise, ignore it and start Surfing. Ignore the first three ladders you may find. The first one is the out-point of the path to the PP Up; while the second and third ones are the beginning and end of another side path that contains a Full Restore. If you search the area you’ll find a white-colored rock near the third ladder; this contains a hidden Rare Candy.
+
+The ladder you want to take is at the very end of the path. Up on the second floor, just follow the maze. No items can be found in any of these dead ends. Once you go back down to the first floor, you will be right next to a ladder going down into the basement. A Max Revive can be found to the east of the ladder. Otherwise, this is then a straight shot to Mewtwo. You will pass an Ultra Ball on the way, but you won’t be needing it. You can find a second Ultra Ball hidden in the white rock at the northeast corner of the map.
+
+Boss — Mewtwo
+
+    Level 70 Mewtwo
+
+Throw your Master Ball and the battle is over.
+
+If you used your Master Ball on a different Pokémon, you will find Mewtwo an extremely powerful Pokémon. It makes catching Zapdos seem like a picnic. It has Recover, so this will be a very long battle. The easiest tactic is to try to freeze him by using Articuno’s Blizzard and Ice Beam repeatedly. Once frozen, he will not thaw unless a Fire-type move is used on him, or you use the Haze move.
+
+
+Encounter Rates
+
+Here you will find a centralized list of which Pokémon can be found in the various locations in the game.
+Route 1
+
+In the tall grass
+
+    016 - Pidgey
+        Pokémon Red: 55% encounter rate
+        Pokémon Blue: 55% encounter rate
+    019 - Rattata
+        Pokémon Red: 45% encounter rate
+        Pokémon Blue: 45% encounter rate
+
+Route 2
+
+In the tall grass
+
+    010 - Caterpie
+        Pokémon Red: Does not appear
+        Pokémon Blue: 15% encounter rate
+    013 - Weedle
+        Pokémon Red: 15% encounter rate
+        Pokémon Blue: Does not appear
+    016 - Pidgey
+        Pokémon Red: 40% encounter rate
+        Pokémon Blue: 40% encounter rate
+    019 - Rattata
+        Pokémon Red: 45% encounter rate
+        Pokémon Blue: 45% encounter rate
+
+Route 3
+
+In the tall grass
+
+    016 - Pidgey
+        Pokémon Red: 50% encounter rate
+        Pokémon Blue: 50% encounter rate
+    021 - Spearow
+        Pokémon Red: 40% encounter rate
+        Pokémon Blue: 40% encounter rate
+    039 - Jigglypuff
+        Pokémon Red: 10% encounter rate
+        Pokémon Blue: 10% encounter rate
+
+Route 4
+
+In the tall grass
+
+    019 - Rattata
+        Pokémon Red: 45% encounter rate
+        Pokémon Blue: 45% encounter rate
+    021 - Spearow
+        Pokémon Red: 30% encounter rate
+        Pokémon Blue: 30% encounter rate
+    023 - Ekans
+        Pokémon Red: 25% encounter rate
+        Pokémon Blue: Does not appear
+    027 - Sandshrew
+        Pokémon Red: Does not appear
+        Pokémon Blue: 25% encounter rate
+
+Route 5 & Route 6
+
+In the tall grass
+
+    016 - Pidgey
+        Pokémon Red: 35% encounter rate
+        Pokémon Blue: 35% encounter rate
+    043 - Oddish
+        Pokémon Red: 40% encounter rate
+        Pokémon Blue: Does not appear
+    052 - Meowth
+        Pokémon Red: Does not appear
+        Pokémon Blue: 25% encounter rate
+    056 - Mankey
+        Pokémon Red: 25% encounter rate
+        Pokémon Blue: Does not appear
+    069 - Bellsprout
+        Pokémon Red: Does not appear
+        Pokémon Blue: 40% encounter rate
+
+Route 7
+
+In the tall grass
+
+    026 - Pidgey
+        Pokémon Red: 35% encounter rate
+        Pokémon Blue: 35% encounter rate
+    037 - Vulpix
+        Pokémon Red: Does not appear
+        Pokémon Blue: 10% encounter rate
+    043 - Oddish
+        Pokémon Red: 25% encounter rate
+        Pokémon Blue: Does not appear
+    069 - Bellsprout
+        Pokémon Red: Does not appear
+        Pokémon Blue: 25% encounter rate
+    052 - Meowth
+        Pokémon Red: Does not appear
+        Pokémon Blue: 30% encounter rate
+    056 - Mankey
+        Pokémon Red: 30% encounter rate
+        Pokémon Blue: Does not appear
+    058 - Growlithe
+        Pokémon Red: 10% encounter rate
+        Pokémon Blue: Does not appear
+
+Route 8
+
+In the tall grass
+
+    016 - Pidgey
+        Pokémon Red: 35% encounter rate
+        Pokémon Blue: 35% encounter rate
+    023 - Ekans
+        Pokémon Red: 20% encounter rate
+        Pokémon Blue: Does not appear
+    027 - Sandshrew
+        Pokémon Red: Does not appear
+        Pokémon Blue: 20% encounter rate
+    037 - Vulpix
+        Pokémon Red: Does not appear
+        Pokémon Blue: 20% encounter rate
+    052 - Meowth
+        Pokémon Red: Does not appear
+        Pokémon Blue: 25% encounter rate
+    056 - Mankey
+        Pokémon Red: 25% encounter rate
+        Pokémon Blue: Does not appear
+    058 - Growlithe
+        Pokémon Red: 20% encounter rate
+        Pokémon Blue: Does not appear
+
+Route 9
+
+In the tall grass
+
+    021 - Spearow
+        Pokémon Red: 30% encounter rate
+        Pokémon Blue: 30% encounter rate
+    019 - Rattata
+        Pokémon Red: 45% encounter rate
+        Pokémon Blue: 45% encounter rate
+    023 - Ekans
+        Pokémon Red: 25% encounter rate
+        Pokémon Blue: Does not appear
+    027 - Sandshrew
+        Pokémon Red: Does not appear
+        Pokémon Blue: 25% encounter rate
+
+Route 10
+
+In the tall grass
+
+    021 - Spearow
+        Pokémon Red: 30% encounter rate
+        Pokémon Blue: 30% encounter rate
+    023 - Ekans
+        Pokémon Red: 25% encounter rate
+        Pokémon Blue: Does not appear
+    027 - Sandshrew
+        Pokémon Red: Does not appear
+        Pokémon Blue: 25% encounter rate
+    100 - Voltorb
+        Pokémon Red: 45% encounter rate
+        Pokémon Blue: 45% encounter rate
+
+Route 11
+
+In the tall grass
+
+    021 - Spearow
+        Pokémon Red: 30% encounter rate
+        Pokémon Blue: 30% encounter rate
+    023 - Ekans
+        Pokémon Red: 45% encounter rate
+        Pokémon Blue: Does not appear
+    027 - Sandshrew
+        Pokémon Red: Does not appear
+        Pokémon Blue: 45% encounter rate
+    096 - Drowzee
+        Pokémon Red: 25% encounter rate
+        Pokémon Blue: 25% encounter rate
+
+Route 12
+
+In the tall grass
+
+    016 - Pidgey
+        Pokémon Red: 35% encounter rate
+        Pokémon Blue: 35% encounter rate
+    047 - Venonat
+        Pokémon Red: 20% encounter rate
+        Pokémon Blue: 20% encounte rate
+    043 - Oddish
+        Pokémon Red: 40% encounter rate
+        Pokémon Blue: Does not appear
+    044 - Gloom
+        Pokémon Red: 5% encounter rate
+        Pokémon Blue: 5% encounter rate
+    069 - Bellsprout
+        Pokémon Red: Does not appear
+        Pokémon Blue: 40% encounter rate
+    070 - Weepinbell
+        Pokémon Red: Does not appear
+        Pokémon Blue: 5% encounter rate
+
+Fishing with the Old Rod
+
+    129 - Magikarp
+        Pokémon Red: 100% encounter rate
+        Pokémon Blue: 100% encounter rate
+
+Fishing with the Super Rod
+
+    072 - Tentacool
+        Pokémon Red: 25% encounter rate
+        Pokémon Blue: 25% encounter rate
+    098 - Krabby
+        Pokémon Red: 25% encounter rate
+        Pokémon Blue: 25% encounter rate
+    118 - Goldeen
+        Pokémon Red: 25% encounter rate
+        Pokémon Blue: 25% encounter rate
+    127 - Magikarp
+        Pokémon Red: 25% encounter rate
+        Pokémon Blue: 25% encounter rate
+
+Route 13
+
+In the tall grass
+
+    016 - Pidgey
+        Pokémon Red: 30% encounter rate
+        Pokémon Blue: 30% encounter rate
+    047 - Venonat
+        Pokémon Red: 20% encounter rate
+        Pokémon Blue: 20% encounter rate
+    069 - Bellsprout
+        Pokémon Red: Does not appear
+        Pokémon Blue: 40% encounter rate
+    070 - Weepinbell
+        Pokémon Red: Does not appear
+        Pokémon Blue: 5% encounter rate
+    043 - Oddish
+        Pokémon Red: 40% encounter rate
+        Pokémon Blue: Does not appear
+    044 - Gloom
+        Pokémon Red: 5% encounter rate
+        Pokémon Blue: Does not appear
+    132 - Ditto
+        Pokémon Red: 5% encounter rate
+        Pokémon Blue: 5% encounter rate
+
+Fishing with the Old Rod
+
+    129 - Magikarp
+        Pokémon Red: 100% encounter rate
+        Pokémon Blue: 100% encounter rate
+
+Fishing with the Super Rod
+
+    072 - Tentacool
+        Pokémon Red: 25% encounter rate
+        Pokémon Blue: 25% encounter rate
+    089 - Krabby
+        Pokémon Red: 25% encounter rate
+        Pokémon Blue: 25% encounter rate
+    118 - Goldeen
+        Pokémon Red: 25% encounter rate
+        Pokémon Blue: 25% encounter rate
+    129 - Magikarp
+        Pokémon Red: 25% encounter rate
+        Pokémon Blue: 25% encounter rate
+
+Route 14 & Route 15
+
+In the tall grass
+
+    016 - Pidgey
+        Pokémon Red: 15% encounter rate
+        Pokémon Blue: 15% encounter rate
+    043 - Oddish
+        Pokémon Red: 40% encounter rate
+        Pokémon Blue: Does not appear
+    044 - Gloom
+        Pokémon Red: 5% encounter rate
+        Pokémon Blue: Does not appear
+    047 - Venonat
+        Pokémon Red: 5% encounter rate
+        Pokémon Blue: 5% encounter rate
+    069 - Bellsprout
+        Pokémon Red: Does not appear
+        Pokémon Blue: 40% encounter rate
+    070 - Weepinbell
+        Pokémon Red: 5% encounter rate
+        Pokémon Blue: Does not appear
+    132 - Ditto
+        Pokémon Red: 15% encounter rate
+        Pokémon Blue: 15% encounter rate
+
+Route 16
+
+In the tall grass
+
+    019 - Rattata
+        Pokémon Red: 30% encounter rate
+        Pokémon Blue: 30% encounter rate
+    020 - Raticate
+        Pokémon Red: 5% encounter rate
+        Pokémon Blue: 5% encounter rate
+    021 - Spearow
+        Pokémon Red: 40% encounter rate
+        Pokémon Blue: 40% encounter rate
+
+Route 17
+
+In the tall grass
+
+    020 - Raticate
+        Pokémon Red: 30% encounter rate
+        Pokémon Blue: 30% encounter rate
+    021 - Spearow
+        Pokémon Red: 40% encounter rate
+        Pokémon Blue: 40% encounter rare
+    022 - Fearow
+        Pokémon Red: 5% encounter rate
+        Pokémon Blue: 5% encounter rate
+    084 - Doduo
+        Pokémon Red: 25% encounter rate
+        Pokémon Blue: 25% encounter rate
+
+Route 18
+
+In the tall grass
+
+    020 - Raticate
+        Pokémon Red: 20% encounter rate
+        Pokémon Blue: 20% encounter rate
+    021 - Spearow
+        Pokémon Red: 20% encounter rate
+        Pokémon Blue: 20% encounter rate
+    022 - Fearow
+        Pokémon Red: 15% encounter rate
+        Pokémon Blue: 15% encounter rate
+    084 - Doduo
+        Pokémon Red: 25% encounter rate
+        Pokémon Blue: 25% encounter rate
+
+Fishing with the Old Rod
+
+    129 - Magikarp
+        Pokémon Red: 100% encounter rate
+        Pokémon Blue: 100% encounter rate
+
+Fishing with the Super Rod
+
+    072 - Tentacool
+        Pokémon Red: 25% encounter rate
+        Pokémon Blue: 25% encounter rate
+    098 - Krabby
+        Pokémon Red: 25% encounter rate
+        Pokémon Blue: 25% encounter rate
+    118 - Goldeen
+        Pokémon Red: 25% encounter rate
+        Pokémon Blue: 25% encounter rate
+    129 - Magikarp
+        Pokémon Red: 25% encounter rate
+        Pokémon Blue: 25% encounter rate
+
+Route 19 & Route 20
+
+    072 - Tentacool
+        Pokémon Red: 100% encounter rate
+        Pokémon Blue: 100% encounter rate
+
+Route 21
+
+In the tall grass
+
+    016 - Pidgey
+        Pokémon Red: 25% encounter rate
+        Pokémon Blue: 25% encounter rate
+    019 - Rattata
+        Pokémon Red: 35% encounter rate
+        Pokémon Blue: 35% encounter rate
+    020 - Radicate
+        Pokémon Red: 15% encounter rate
+        Pokémon Blue: 15% encounter rate
+    114 - Tangela
+        Pokémon Red: 10% encounter rate
+        Pokémon Blue: 10% encounter rate
+
+On the water surface
+
+    072 - Tentacool
+        Pokémon Red: 100% encounter rate
+        Pokémon Blue: 100% encounter rate
+
+Fishing with the Old Rod
+
+    129 - Magikarp
+        Pokémon Red: 100% encounter rate
+        Pokémon Blue: 100% encounter rate
+
+Fishing with the Super Rod
+
+    090 - Shellder
+        Pokémon Red: 25% encounter rate
+        Pokémon Blue: 25% encounter rate
+    116 - Horsea
+        Pokémon Red: 25% encounter rate
+        Pokémon Blue: 25% encounter rate
+    118 - Goldeen
+        Pokémon Red: 25% encounter rate
+        Pokémon Blue: 25% encounter rate
+    120 - Staryu
+        Pokémon Red: 25% encounter rate
+        Pokémon Blue: 25% encounter rate
+
+Route 22
+
+In the tall grass
+
+    010 - Caterpie
+        Pokémon Red: Does not appear
+        Pokémon Blue: 15% encounter rate
+    013 - Weedle
+        Pokémon Red: 15% encounter rate
+        Pokémon Blue: Does not appear
+    016 - Pidgey
+        Pokémon Red: 45% encounter rate
+        Pokémon Blue: 45% encounter rate
+    019 - Rattata
+        Pokémon Red: 40% encounter rate
+        Pokémon Blue: 40% encounter rate
+
+Route 24
+
+In the tall grass
+
+    010 - Caterpie
+        Pokémon Red: Does not appear
+        Pokémon Blue: 25% encounter rate
+    011 - Metapod
+        Pokémon Red: Does not appear
+        Pokémon Blue: 15% encounter rate
+    013 - Weedle
+        Pokémon Red: 25% encounter rate
+        Pokémon Blue: Does not appear
+    014 - Kakuna
+        Pokémon Red: 25% encounter rate
+        Pokémon Blue: Does not appear
+    016 - Pidgey
+        Pokémon Red: 20% encounter rate
+        Pokémon Blue: 20% encounter rate
+    063 - Abra
+        Pokémon Red: 15% encounter rate
+        Pokémon Blue: 15% encounter rate
+    069 - Bellsprout
+        Pokémon Red: Does not appear
+        Pokémon Blue: 25% encounter rate
+
+Fishing with the Old Rod
+
+    129 - Magikarp
+        Pokémon Red: 100% encounter rate
+        Pokémon Blue: 100% encounter rate
+
+Route 25
+
+In the tall grass
+
+    010 - Caterpie
+        Pokémon Red: 1% encounter rate
+        Pokémon Blue: 20% encounter rate
+    011 - Metapod
+        Pokémon Red: 4% encounter rate
+        Pokémon Blue: 20% encounter rate
+    013 - Weedle
+        Pokémon Red: 20% encounter rate
+        Pokémon Blue: 1% encounter rate
+    014 - Kakuna
+        Pokémon Red: 20% encounter rate
+        Pokémon Blue: 4% encounter rate
+    016 - Pidgey
+        Pokémon Red: 15% encounter rate
+        Pokémon Blue: 15% encounter rate
+    043 - Oddish
+        Pokémon Red: 25% encounter rate
+        Pokémon Blue: Does not appear
+    063 - Abra
+        Pokémon Red: 15% encounter rate
+        Pokémon Blue: 15% encounter rate
+    069 - Bellsprout
+        Pokémon Red: Does not appear
+        Pokémon Blue: 25% encounter rate
+
+Diglett’s Cave
+
+Anywhere
+
+    050 - Diglett
+        Pokémon Red: 95% encounter rate
+        Pokémon Blue: 95% encounter rate
+    051 - Dugtrio
+        Pokémon Red: 5% encounter rate
+        Pokémon Blue: 5% encounter rate
+
+Mt. Moon
+
+First floor (anywhere)
+
+    035 - Clefairy
+        Pokémon Red: 1% encounter rate
+        Pokémon Blue: 1% encounter rate
+    041 - Zubat
+        Pokémon Red: 79% encounter rate
+        Pokémon Blue: 79% encounter rate
+    046 - Paras
+        Pokémon Red: 5% encounter rate
+        Pokémon Blue: 5% encounter rate
+    074 - Geodude
+        Pokémon Red: 15% encounter rate
+        Pokémon Blue: 15% encounter rate
+
+Connecting tunnels (anywhere)
+
+    035 - Clefairy
+        Pokémon Red: 4% encounter rate
+        Pokémon Blue: 4% encounter rate
+    041 - Zubat
+        Pokémon Red: 60% encounter rate
+        Pokémon Blue: 60% encounter rate
+    046 - Paras
+        Pokémon Red: 10% encounter rate
+        Pokémon Blue: 10% encounter rate
+    074 - Geodude
+        Pokémon Red: 26% encounter rate
+        Pokémon Blue: 26% encounter rate
+
+Deepest floor (anywhere)
+
+    035 - Clefairy
+        Pokémon Red: 6% encounter rate
+        Pokémon Blue: 6% encounter rate
+    041 - Zubat
+        Pokémon Red: 54% encounter rate
+        Pokémon Blue: 54% encounter rate
+    046 - Paras
+        Pokémon Red: 15% encounter rate
+        Pokémon Blue: 15% encounter rate
+    074 - Geodude
+        Pokémon Red: 25% encounter rate
+        Pokémon Blue: 25% encounter rate
+
+Pokémon Tower
+
+Third floor (anywhere)
+
+    092 - Gastly
+        Pokémon Red: 90% encounter rate
+        Pokémon Blue: 90% encounter rate
+    093 - Haunter
+        Pokémon Red: 1% encounter rate
+        Pokémon Blue: 1% encounter rate
+    104 - Cubone
+        Pokémon Red: 9% encounter rate
+        Pokémon Blue: 9% encounter rate
+
+Fourth floor (anywhere)
+
+    092 - Gastly
+        Pokémon Red: 86% encounter rate
+        Pokémon Blue: 86% encounter rate
+    093 - Haunter
+        Pokémon Red: 9% encounter rate
+        Pokémon Blue: 9% encounter rate
+    104 - Cubone
+        Pokémon Red: 5% encounter rate
+        Pokémon Blue: 5% encounter rate
+
+Fifth floor (anywhere)
+
+    092 - Gastly
+        Pokémon Red: 86% encounter rate
+        Pokémon Blue: 86% encounter rate
+    093 - Haunter
+        Pokémon Red: 5% encounter rate
+        Pokémon Blue: 5% encounter rate
+    104 - Cubone
+        Pokémon Red: 9% encounter rate
+        Pokémon Blue: 9% encounter rate
+
+Sixth floor (anywhere)
+
+    092 - Gastly
+        Pokémon Red: 85% encounter rate
+        Pokémon Blue: 85% encounter rate
+    093 - Haunter
+        Pokémon Red: 6% encounter rate
+        Pokémon Blue: 6% encounter rate
+    104 - Cubone
+        Pokémon Red: 9% encounter rate
+        Pokémon Blue: 9% encounter rate
+
+Seventh floor (anywhere)
+
+    092 - Gastly
+        Pokémon Red: 75% encounter rate
+        Pokémon Blue: 75% encounter rate
+    093 - Haunter
+        Pokémon Red: 15% encounter rate
+        Pokémon Blue: 15% encounter rate
+    104 - Cubone
+        Pokémon Red: 10% encounter rate
+        Pokémon Blue: 10% encounter rate
+
+Rock Tunnel
+
+Upper floor (anywhere)
+
+    041 - Zubat
+        Pokémon Red: 55% encounter rate
+        Pokémon Blue 55% encounter rate
+    066 - Machop
+        Pokémon Red: 15% encounter rate
+        Pokémon Blue: 15% encounter rate
+    074 - Geodude
+        Pokémon Red: 25% encounter rate
+        Pokémon Blue: 25% encounter rate
+    095 - Onix
+        Pokémon Red: 5% encounter rate
+        Pokémon Blue: 5% encounter rate
+
+Lower floor (anywhere)
+
+    041 - Zubat
+        Pokémon Red: 50% encounter rate
+        Pokémon Blue 50% encounter rate
+    066 - Machop
+        Pokémon Red: 15% encounter rate
+        Pokémon Blue: 15% encounter rate
+    074 - Geodude
+        Pokémon Red: 26% encounter rate
+        Pokémon Blue: 26% encounter rate
+    095 - Onix
+        Pokémon Red: 9% encounter rate
+        Pokémon Blue: 9% encounter rate
+
+Safari Zone – Entrance
+
+In the tall grass
+
+    029 - Nidoran ♀
+        Pokémon Red: 5% encounter rate
+        Pokémon Blue: 10% encounter rate
+    030 - Nidorina
+        Pokémon Red: Does not appear
+        Pokémon Blue: 25% encounter rate
+    029 - Nidoran ♂︎
+        Pokémon Red: 25% encounter rate
+        Pokémon Blue: Does not appear
+    033 - Nidorino
+        Pokémon Red: 20% encounter rate
+        Pokémon Blue: 20% encounter rate
+    102 - Exeggcute
+        Pokémon Red: 20% encounter rate
+        Pokémon Blue: 20% encounter rate
+    047 - Parasect
+        Pokémon Red: 5% encounter rate
+        Pokémon Blue: 5% encounter rate
+    047 - Venonat
+        Pokémon Red: 15% encounter rate
+        Pokémon Blue: 15% encounter rate
+    111 - Rhyhorn
+        Pokémon Red: 15% encounter rate
+        Pokémon Blue: 15% encounter rate
+    113 - Chansey
+        Pokémon Red: 1% encounter rate
+        Pokémon Blue: 1% encounter rate
+    123 - Scyther
+        Pokémon Red: 4% encounter rate
+        Pokémon Blue: Does not appear
+
+Fishing with the Old Rod
+
+    129 - Magikarp
+        Pokémon Red: 100% encounter rate
+        Pokémon Blue: 100% encounter rate
+
+Fishing with the Super Rod
+
+    089 - Krabby
+        Pokémon Red: 25% encounter rate
+        Pokémon Blue: 25% encounter rate
+    054 - Psyduck
+        Pokémon Red: 25% encounter rate
+        Pokémon Blue: 25% encounter rate
+    079 - Slowpoke
+        Pokémon Red: 25% encounter rate
+        Pokémon Blue: 25% encounter rate
+    147 - Dratini
+        Pokémon Red: 25% encounter rate
+        Pokémon Blue: 25% encounter rate
+
+Safari Zone – East Area
+
+In the tall grass
+
+    029 - Nidoran ♀
+        Pokémon Red: 5% encounter rate
+        Pokémon Blue: 25% encounter rate
+    030 - Nidorina
+        Pokémon Red: Does not appear
+        Pokémon Blue: 10% encounter rate
+    032 - Nidoran ♂
+        Pokémon Red: 25% encounter rate
+        Pokémon Blue: 25% encounter rate
+    033 - Nidorino
+        Pokémon Red: 10% encounter rate
+        Pokémon Blue: Does not appear
+    046 - Paras
+        Pokémon Red: 15% encounter rate
+        Pokémon Blue: 15% encounter rate
+    084 - Doduo
+        Pokémon Red: 15% encounter rate
+        Pokémon Blue: 15% encounter rate
+
+    102 - Exeggcute
+        Pokémon Red: 20% encounter rate
+        Pokémon Blue: 20% encounter rate
+    115 - Kangaskhan
+        Pokémon Red: 4% encounter rate
+        Pokémon Blue: 4% encounter rate
+    123 - Scyther
+        Pokémon Red: 1% encounter rate
+        Pokémon Blue: Does not appear
+    127 - Pinsir
+        Pokémon Red: Does not appear
+        Pokémon Blue: 1% encounter rate
+
+Safari Zone – North Area
+
+In the tall grass
+
+    029 - Nidoran ♀
+        Pokémon Red: Does not appear
+        Pokémon Blue: 25% encounter rate
+    030 - Nidorina
+        Pokémon Red: 5% encounter rate
+        Pokémon Blue: 10% encounter rate
+    032 - Nidoran ♂
+        Pokémon Red: 25% encounter rate
+        Pokémon Blue: Does not appear
+    033 - Nidorino
+        Pokémon Red: 10% encounter rate
+        Pokémon Blue: 5% encounter rate
+    046 - Paras
+        Pokémon Red: 15% encounter rate
+        Pokémon Blue: 15% encounter rate
+    049 - Venomoth
+        Pokémon Red: 5% encounter rate
+        Pokémon Blue: 5% encounter rate
+    102 - Exeggcute
+        Pokémon Red: 20% encounter rate
+        Pokémon Blue: 20% encounter rate
+    111 - Rhyhorn
+        Pokémon Red: 15% encounter rate
+        Pokémon Blue: 15% encounter rate
+    113 - Chansey
+        Pokémon Red: 4% encounter rate
+        Pokémon Blue: 4% encounter rate
+    128 - Tauros
+        Pokémon Red: 1% encounter rate
+        Pokémon Blue: 1% encounter rate
+
+Safari Zone – West Area
+
+In the tall grass
+
+    029 - Nidoran ♀
+        Pokémon Red: 5% encounter rate
+        Pokémon Blue: 25% encounter rate
+    030 - Nidorina
+        Pokémon Red: Does not appear
+        Pokémon Blue: 10% encounter rate
+    032 - Nidoran ♂
+        Pokémon Red: 25% encounter rate
+        Pokémon Blue: 25% encounter rate
+    033 - Nidorino
+        Pokémon Red: 10% encounter rate
+        Pokémon Blue: Does not appear
+    102 - Exeggcute
+        Pokémon Red: 20% encounter rate
+        Pokémon Blue: 20% encounter rate
+    084 - Doduo
+        Pokémon Red: 15% encounter rate
+        Pokémon Blue: 15% encounter rate
+    048 - Venonat
+        Pokémon Red: 15% encounter rate
+        Pokémon Blue: 15% encounter rate
+    115 - Kangaskhan
+        Pokémon Red: 1% encounter rate
+        Pokémon Blue: 1% encounter rate
+    128 - Tauros
+        Pokémon Red: 4% encounter rate
+        Pokémon Blue: 4% encounter rate
+
+Seafoam Island
+
+Ground floor (anywhere)
+
+    041 - Zubat
+        Pokémon Red: 10% encounter rate
+        Pokémon Blue: 10% encounter rate
+    042 - Golbat
+        Pokémon Red: 5% encounter rate
+        Pokémon Blue: 5% encounter rate
+    054 - Psyduck
+        Pokémon Red: 5% encounter rate
+        Pokémon Blue: 15% encounter rate
+    055 - Golduck
+        Pokémon Red: 1% encounter rate
+        Pokémon Blue: Does not appear
+    079 - Slowpoke
+        Pokémon Red: 15% encounter rate
+        Pokémon Blue: 5% encounter rate
+    086 - Seel
+        Pokémon Red: 25% encounter rate
+        Pokémon Blue: 25% encounter rate
+    090 - Shellder
+        Pokémon Red: 19% encounter rate
+        Pokémon Blue: Does not appear
+    098 - Krabby
+        Pokémon Red: Does not appear
+        Pokémon Blue: 20% encounter rate
+    116 - Horsea
+        Pokémon Red: 20% encounter rate
+        Pokémon Blue: Does not appear
+    120 - Staryu
+        Pokémon Red: Does not appear
+        Pokémon Blue: 19% encounter rate
+
+Basement 1 (anywhere)
+
+    054 - Psyduck
+        Pokémon Red: Does not appear
+        Pokémon Blue: 15% encounter rate
+    079 - Slowpoke
+        Pokémon Red: 15% encounter rate
+        Pokémon Blue: Does not appear
+    086 - Seel
+        Pokémon Red: 15% encounter rate
+        Pokémon Blue: 15% encounter rate
+    087 - Dewgong
+        Pokémon Red: 4% encounter rate
+        Pokémon Blue: 4% encounter rate
+    090 - Shellder
+        Pokémon Red: 25% encounter rate
+        Pokémon Blue: 15% encounter rate
+    098 - Krabby
+        Pokémon Red: Does not appear
+        Pokémon Blue: 25% encounter rate
+    099 - Kingler
+        Pokémon Red: Does not appear
+        Pokémon Blue: 1% encounter rate
+    116 - Horsea
+        Pokémon Red: 25% encounter rate
+        Pokémon Blue: Does not appear
+    117 - Seadra
+        Pokémon Red: 1% encounter rate
+        Pokémon Blue: Does not appear
+    120 - Staryu
+        Pokémon Red: 15% encounter rate
+        Pokémon Blue: 25% encounter rate
+
+Basement 2 (anywhere)
+
+    042 - Golbat
+        Pokémon Red: 4% encounter rate
+        Pokémon Blue: 4% encounter rate
+    054 - Psyduck
+        Pokémon Red: Does not appear
+        Pokémon Blue: 25% encounter rate
+    055 - Golduck
+        Pokémon Red: Does not appear
+        Pokémon Blue: 1% encounter rate
+    079 - Slowpoke
+        Pokémon Red: 25% encounter rate
+        Pokémon Blue: Does not appear
+    080 - Slowbro
+        Pokémon Red: 1% encounter rate
+        Pokémon Blue: Does not appear
+    086 - Seel
+        Pokémon Red: 40% encounter rate
+        Pokémon Blue: 40% encounter rate
+    090 - Shellder
+        Pokémon Red: 5% encounter rate
+        Pokémon Blue: 10% encounter rate
+    098 - Krabby
+        Pokémon Red: Does not appear
+        Pokémon Blue: 15% encounter rate
+    116 - Horsea
+        Pokémon Red: 15% encounter rate
+        Pokémon Blue: Does not appear
+    120 - Staryu
+        Pokémon Red: 10% encounter rate
+        Pokémon Blue: 5% encounter rate
+
+Basement 3 (anywhere)
+
+    054 - Psyduck
+        Pokémon Red: Does not appear
+        Pokémon Blue: 40% encounter rate
+    079 - Slowpoke
+        Pokémon Red: 40% encounter rate
+        Pokémon Blue: Does not appear
+    086 - Seel
+        Pokémon Red: 25% encounter rate
+        Pokémon Blue: 25% encounter rate
+    087 - Dewgong
+        Pokémon Red: 1% encounter rate
+        Pokémon Blue: 1% encounter rate
+    090 - Shellder
+        Pokémon Red: 15% encounter rate
+        Pokémon Blue: Does not appear
+    098 - Krabby
+        Pokémon Red: Does not appear
+        Pokémon Blue: 15% encounter rate
+    099 - Kingler
+        Pokémon Red: Does not appear
+        Pokémon Blue: 4% encounter rate
+    116 - Horsea
+        Pokémon Red: 15% encounter rate
+        Pokémon Blue: Does not appear
+    117 - Seadra
+        Pokémon Red: 4$ encounter rate
+        Pokémon Blue: Does not appear
+    120 - Staryu
+        Pokémon Red: Does not appear
+        Pokémon Blue: 15% encounter rate
+
+Basement 4 (anywhere)
+
+    042 - Golbat
+        Pokémon Red: 1% encounter rate
+        Pokémon Blue: 1% encounter rate
+    054 - Psyduck
+        Pokémon Red: Does not appear
+        Pokémon Blue: 15% encounter rate
+    055 - Golduck
+        Pokémon Red: Does not appear
+        Pokémon Blue: 4% encounter rate
+    079 - Slowpoke
+        Pokémon Red: 15% encounter rate
+        Pokémon Blue: Does not appear
+    080 - Slowbro
+        Pokémon Red: 4% encounter rate
+        Pokémon Blue: Does not appear
+    086 - Seel
+        Pokémon Red: 15% encounter rate
+        Pokémon Blue: 15% encounter rate
+    090 - Shellder
+        Pokémon Red: 25% encounter rate
+        Pokémon Blue: Does not appear
+    098 - Krabby
+        Pokémon Red: Does not appear
+        Pokémon Blue: 40% encounter rate
+    116 - Horsea
+        Pokémon Red: 40% encounter rate
+        Pokémon Blue: Does not appear
+    120 - Staryu
+        Pokémon Red: Does not appear
+        Pokémon Blue: 25% encounter rate
+
+Unknown Dungeon
+
+First floor (anywhere)
+
+    024 - Arbok
+        Pokémon Red: 10% encounter rate
+        Pokémon Blue: Does not appear
+    026 - Raichu
+        Pokémon Red: 4% encounter rate
+        Pokémon Blue: 4% encounter rate
+    028 - Sandshrew
+        Pokémon Red: Does not appear
+        Pokémon Blue: 10% encounter rate
+    042 - Golbat
+        Pokémon Red: 25% encounter rate
+        Pokémon Blue: 25% encounter rate
+    047 - Parasect
+        Pokémon Red: 5% encounter rate
+        Pokémon Blue: 5% encounter rate
+    049 - Venomoth
+        Pokémon Red: 10% encounter rate
+        Pokémon Blue: 10% encounter rate
+    064 - Kadabra
+        Pokémon Red: 10% encounter rate
+        Pokémon Blue: 5% encounter rate
+    082 - Magniton
+        Pokémon Red: 15% encounter rate
+        Pokémon Blue: 15% encounter rate
+    085 - Dodrio
+        Pokémon Red: 10% encounter rate
+        Pokémon Blue: 10% encounter rate
+    097 - Hypno
+        Pokémon Red: 15% encounter rate
+        Pokémon Blue: 15% encounter rate
+    132 - Ditto
+        Pokémon Red: 1% encounter rate
+        Pokémon Blue: 1% encounter rate
+
+Second floor (anywhere)
+
+    040 - Wigglytuff
+        Pokémon Red: 5% encounter rate
+        Pokémon Blue: 5% encounter rate
+    049 - Venomoth
+        Pokémon Red: 15% encounter rate
+        Pokémon Blue: 15% encounter rate
+    064 - Kadabra
+        Pokémon Red: 15% encounter rate
+        Pokémon Blue: 15% encounter rate
+    085 - Dodrio
+        Pokémon Red: 25% encounter rate
+        Pokémon Blue: 25% encounter rate
+    105 - Marowak
+        Pokémon Red: 10% encounter rate
+        Pokémon Blue: 10% encounter rate
+    112 - Rhydon
+        Pokémon Red: 10% encounter rate
+        Pokémon Blue: 10% encounter rate
+    113 - Chansey
+        Pokémon Red: 5% encounter rate
+        Pokémon Blue: 5% encounter rate
+    132 - Ditto
+        Pokémon Red: 5% encounter rate
+        Pokémon Blue: 5% encounter rate
+
+Basement (anywhere)
+
+    024 - Arbok
+        Pokémon Red: 5% encounter rate
+        Pokémon Blue: Does not appear
+    026 - Raichu
+        Pokémon Red: 10% encounter rate
+        Pokémon Blue: 10% encounter rate
+    028 - Sandslash
+        Pokémon Red: Does not appear
+        Pokémon Blue: 5% encounter rate
+    047 - Parasect
+        Pokémon Red: 10% encounter rate
+        Pokémon Blue: 10% encounter rate
+    101 - Electrode
+        Pokémon Red: 15% encounter rate
+        Pokémon Blue: 15% encounter rate
+    106 - Marowak
+        Pokémon Red: 15% encounter rate
+        Pokémon Blue 15% encounter rate
+    112 - Rhydon
+        Pokémon Red: 25% encounter rate
+        Pokémon Blue: 25% encounter rate
+    113 - Chansey
+        Pokémon Red: 10% encounter rate
+        Pokémon Blue: 10% encounter rate
+    132 - Ditto
+        Pokémon Red: 10% encounter rate
+        Pokémon Blue: 10% encounter rate
+
+Viridian City
+
+Fishing with the Old Rod
+
+    129 - Magikarp
+        Pokémon Red: 100% encounter rate
+        Pokémon Blue: 100% encounter rate
+
+Fishing with the Super Rod
+
+    060 - Poliwag
+        Pokémon Red: 50% encounter rate
+        Pokémon Blue: 50% encounter rate
+    072 - Tentacool
+        Pokémon Red: 50% encounter rate
+
+Viridian Forest
+
+In the tall grass
+
+    010 - Caterpie
+        Pokémon Red: 5% encounter rate
+        Pokémon Blue: 50% encounter rate
+    011 - Metapod
+        Pokémon Red: 5% encounter rate
+        Pokémon Blue: 35% encounter rate
+    013 - Weedle
+        Pokémon Red: 50% encounter rate
+        Pokémon Blue: 5% encounter rate
+    014 - Kakuna
+        Pokémon Red: 35% encounter rate
+        Pokémon Blue: 5% encounter rate
+    025 - Pikachu
+        Pokémon Red: 5% encounter rate
+        Pokémon Blue: 5% encounter rate
+
+References
+
+The statistics in this page were compiled from the StrategyWiki version of this guide.
+
+
+Enemy Trainers
+
+In this page you will find a database of all the enemy Pokémon Trainers in the game, the Pokémon they use, and the reward they give when you defeat them, organized by where in Kanto you fight them.
+Information
+	
+Note that unlike later generations, enemy Trainers do not have individual names; you simply see a title like “Bug Catcher” or “Lass.” Members of the villainous Team Rocket are identified solely as “Rocket.”
+Route 3
+
+    Lass (•135 reward)
+        Level 9 Pidgey
+        Level 9 Pidgey
+    Bug Catcher (•100 reward)
+        Level 10 Caterpie
+        Level 10 Weedle
+        Level 10 Caterpie
+    Youngster (•165 reward)
+        Level 11 Rattata
+        Level 11 Ekans
+    Bug Catcher (•90 reward)
+        Level 9 Weedle
+        Level 9 Kakuna
+        Level 9 Caterpie
+        Level 9 Metapod
+    Lass (•150 reward)
+        Level 10 Rattata
+        Level 10 Nidoran♂
+    Youngster (•210 reward)
+        Level 14 Spearow
+    Bug Catcher (•110 reward)
+        Level 11 Caterpie
+        Level 11 Metapod
+    Lass (•210 reward)
+        Level 14 Jigglypuff
+
+Route 6
+
+    Bug Catcher (•160 reward)
+        Level 16 Weedle
+        Level 16 Caterpie
+        Level 16 Weedle
+    Jr. Trainer♂ (•400 reward)
+        Level 20 Squirtle
+    Jr. Trainer♀ (•400 reward)
+        Level 16 Rattata
+        Level 16 Pikachu
+    Bug Catcher (•200 reward)
+        Level 20 Butterfree
+    Jr. Trainer♀ (320 reward)
+        Level 16 Pidgey
+        Level 16 Pidgey
+        Level 16 Pidgey
+    Jr. Trainer♂ (•380 reward)
+        Level 16 Spearow
+        Level 16 Raticate
+
+Route 8
+
+    Lass (•330 reward)
+        Level 22 Clefairy
+        Level 22 Clefairy
+    Gambler (•1680 reward)
+        Level 24 Growlithe
+        Level 24 Vulpix
+    Super Nerd (•550 reward)
+        Level 22 Grimer
+        Level 22 Muk
+        Level 22 Grimer
+    Lass (•345 reward)
+        Level 23 Nidoran♀
+        Level 23 Nidorina
+    Super Nerd (•650 reward)
+        Level 26 Koffing
+    Lass (•360 reward)
+        Level 24 Meowth
+        Level 24 Meowth
+        Level 24 Meowth
+    Lass (•285 reward)
+        Level 19 Pidgey
+        Level 19 Rattata
+        Level 19 Nidoran♂
+        Level 19 Meowth
+        Level 19 Pikachu
+    Gambler (•1540 reward)
+        Level 22 Poliwag
+        Level 22 Poliwag
+        Level 22 Poliwhirl
+    Super Nerd (•550 reward)
+        Level 20 Voltorb
+        Level 20 Koffing
+        Level 20 Voltorb
+        Level 20 Magnemite
+
+Route 9
+
+    Jr. Trainer♀ (•360 reward)
+        Level 18 Oddish
+        Level 18 Bellsprout
+        Level 18 Oddish
+        Level 18 Bellsprout
+    Hiker (•700 reward)
+        Level 20 Machop
+        Level 20 Onix
+    Jr. Trainer♂ (•420 reward)
+        Level 21 Growlithe
+        Level 21 Charmander
+    Bug Catcher (•190 reward)
+        Level 19 Beedrill
+        Level 19 Beedrill
+    Bug Catcher (•200 reward)
+        Level 20 Caterpie
+        Level 20 Weedle
+        Level 20 Venonat
+    Jr. Trainer♂ (•380 reward)
+        Level 19 Rattata
+        Level 19 Diglett
+        Level 19 Ekans
+        Level 19 Sandshrew
+    Hiker (•735 reward)
+        Level 21 Geodude
+        Level 21 Onix
+    Hiker (•700 reward)
+        Level 20 Geodude
+        Level 20 Machop
+        Level 20 Geodude
+    Jr. Trainer♀ (•460 reward)
+        Level 23 Meowth
+
+Route 10 (north of Rock Tunnel)
+
+    Jr. Trainer♀ (•360 reward)
+        Level 20 Pikachu
+        Level 20 Clefairy
+
+Route 10 (south of Rock Tunnel)
+
+    Jr. Trainer♀ (•420 reward)
+        Level 21 Pidgey
+        Level 21 Pidgeotto
+    Hiker (•735 reward)
+        Level 21 Geodude
+        Level 21 Onix
+    Hiker (•665 reward)
+        Level 19 Onix
+        Level 19 Graveler
+    Pokémaniac (•1000 reward)
+        Level 20 Cubone
+        Level 20 Slowpoke
+
+Route 11
+
+    Gambler (•1260 reward)
+        Level 18 Polywag
+        Level 18 Horsea
+    Youngster (•315 reward)
+        Level 21 Ekans
+    Youngster (•285 reward)
+        Level 19 Sandshrew
+        Level 19 Zubat
+    Youngster (•270 reward)
+        Level 18 Nidoran♂
+        Level 18 Nidorino
+    Gambler (•1260 reward)
+        Level 18 Bellsprout
+        Level 18 Oddish
+    Gambler (•1260 reward)
+        Level 18 Growlithe
+        Level 18 Vulpix
+    Engineer (•1050 reward)
+        Level 21 Magnemite
+    Youngster (•225 reward)
+        Level 17 Rattata
+        Level 17 Rattata
+        Level 17 Raticate
+    Gambler (•1260 reward)
+        Level 18 Voltorb
+        Level 18 Magnemite
+    Engineer (•900 reward)
+        Level 18 Magnemite
+        Level 18 Magnemite
+        Level 18 Magnemite
+
+Route 12
+
+    Fisherman (•770 reward)
+        Level 22 Goldeen
+        Level 22 Poliwag
+        Level 22 Goldeen
+    Fisherman (•840 reward)
+        Level 24 Tentacool
+        Level 24 Goldeen
+    Fisherman (•945 reward)
+        Level 27 Goldeen
+    Fisherman (•735 reward)
+        Level 21 Poliwag
+        Level 21 Shellder
+        Level 21 Goldeen
+        Level 21 Horsea
+    Rocker (•725)
+        Level 29 Voltorb
+        Level 29 Electrode
+    Fisherman (•840 reward)
+        Level 24 Magikarp
+        Level 25 Magikarp
+    Jr. Trainer (•840 reward)
+        Level 29 Nidoran♂
+        Level 29 Nirodrino
+
+Route 13
+
+    Jr. Trainer (•560 reward)
+        Level 28 Goldeen
+        Level 28 Poliwag
+        Level 28 Horsea
+    Birdkeeper (•725 reward)
+        Level 29 Pidgey
+        Level 29 Pidgeotto
+    Jr. Trainer
+        Level 24 Pidgey
+        Level 24 Meowth
+        Level 24 Rattata
+        Level 24 Pikachu
+        Level 24 Meowth
+    Beauty (•1890 reward)
+        Level 27 Rattata
+        Level 27 Pikachu
+        Level 27 Rattata
+    Beauty (•2030 reward)
+        Level 29 Clefairy
+        Level 29 Meowth
+    Jr. Trainer (•600 reward)
+        Level 30 Poliwag
+        Level 30 Poliwag
+    Jr. Trainer (•540 reward)
+        Level 27 Pidgey
+        Level 27 Meowth
+        Level 27 Pidgey
+        Level 27 Pidgeotto
+    Birdkeeper (•625 reward)
+        Level 25 Spearow
+        Level 25 Pidgey
+        Level 25 Pidgey
+        Level 25 Spearow
+        Level 25 Spearow
+    Biker (•700 reward)
+        Level 28 Koffing
+        Level 28 Koffing
+        Level 28 Koffing
+    Birdkeeper (•650 reward)
+        Level 26 Pidgey
+        Level 26 Pidgeotto
+        Level 26 Spearow
+    Birdkeeper (•650 reward)
+        Level 26 Pidgey
+        Level 26 Spearow
+        Level 26 Pidgey
+        Level 26 Fearow
+    Birdkeeper (•650 reward)
+        Level 26 Pidgey
+        Level 26 Spearow
+        Level 26 Pidgey
+        Level 26 Fearow
+    Birdkeeper (•700 reward)
+        Level 28 Pidgey
+        Level 28 Pidgeotto
+        Level 28 Doduo
+    Birdkeeper (•725 reward)
+        Level 29 Pidgeotto
+        Level 29 Fearow
+    Birdkeeper (•700 reward)
+        Level 28 Spearow
+        Level 28 Duduo
+        Level 28 Fearow
+
+Route 14
+
+    Biker (•580 reward)
+        Level 29 Koffing
+        Level 29 Muk
+    Birdkeeper (•825 reward)
+        Level 33 Farfetch’d
+    Biker (•560 reward)
+        Level 28 Grimer
+        Level 28 Grimer
+        Level 28 Koffing
+    Biker (•580 reward)
+        Level 29 Koffing
+        Level 29 Grimer
+    Biker (•520 reward)
+        Level 26 Koffing
+        Level 26 Koffing
+        Level 26 Grimer
+        Level 26 Koffing
+    Birdkeeper (•725 reward)
+        Level 29 Spearow
+        Level 29 Fearow
+
+Route 15
+
+    Jr. Trainer♀ (•580 award)
+        Level 29 Pikachu
+        Level 29 Raichu
+    Beauty (•2030 reward)
+        Level 29 Pidgeotto
+        Level 29 Wigglytuff
+    Biker (•500 reward)
+        Level 25 Koffing
+        Level 25 Koffing
+        Level 25 Weezing
+        Level 25 Koffing
+        Level 25 Grimer
+    Biker (•560 reward)
+        Level 28 Koffing
+        Level 28 Grimer
+        Level 28 Weezing
+    Beauty (•2030 reward)
+        Level 29 Bulbasaur
+        Level 29 Ivysaur
+    Jr. Trainer♀ (•560 reward)
+        Level 28 Gloom
+        Level 28 Oddish
+        Level 28 Oddish
+    Jr. Trainer♀ (•660 reward)
+        Level 33 Clefairy
+    Birdkeeper (•725 reward)
+        Level 28 Doduo
+        Level 28 Doduo
+        Level 28 Doduo
+    Birdkeeper (•650 reward)
+        Level 26 Pidgeyotto
+        Level 26 Farfetch’d
+        Level 26 Doduo
+        Level 26 Pidgey
+    Jr. Trainer♀ (•580 reward)
+        Level 29 Bellsprout
+        Level 29 Oddish
+        Level 29 Tangela
+
+Route 16
+
+    Biker (•580 reward)
+        Level 29 Grimer
+        Level 29 Koffing
+    Cue Ball (•700 reward)
+        Level 28 Machop
+        Level 28 Mankey
+        Level 28 Machop
+    Cue Ball (•725 reward)
+        Level 29 Mankey
+        Level 28 Machop
+    Biker (•660 reward)
+        Level 33 Weezing
+    Cue Ball (•825 reward)
+        Level 33 Machop
+    Biker (•520 reward)
+        Level 26 Grimer
+        Level 26 Grimer
+        Level 26 Grimer
+        Level 26 Grimer
+
+Route 17
+
+    Biker (•560 reward)
+        Level 28 Weezing
+        Level 28 Koffing
+        Level 28 Weezing
+    Cue Ball (•725 reward)
+        Level 29 Machop
+        Level 29 Machoke
+    Cue Ball (•725 reward)
+        Level 29 Mankey
+        Level 29 Primeape
+    Biker (•660 reward)
+        Level 33 Muk
+    Biker (•580 reward)
+        Level 29 Voltorb
+        Level 29 Voltorb
+    Cue Ball (•825 reward)
+        Level 33 Machoke
+    Cue Ball (•650 reward)
+        Level 29 Mankey
+        Level 29 Mankey
+        Level 29 Machoke
+        Level 29 Machop
+    Cue Ball (•725 reward)
+        Level 29 Primeape
+        Level 29 Machoke
+    Biker (•580 award)
+        Level 29 Weezing
+        Level 29 Muk
+    Biker (•500 reward)
+        Level 29 Koffing
+        Level 29 Weezing
+        Level 29 Koffing
+        Level 29 Koffing
+        Level 29 Weezing
+
+Route 18
+
+    Birdkeeper (•725 reward)
+        Level 29 Spearow
+        Level 29 Fearow
+    Birdkeeper (•650 reward)
+        Level 26 Spearow
+        Level 26 Spearow
+        Level 26 Fearow
+        Level 26 Spearow
+    Birdkeeper (•850 reward)
+        Level 34 Dodrio
+
+Route 19
+
+    Swimmer (•145 reward)
+        Level 29 Goldeen
+        Level 29 Horsea
+        Level 29 Staryu
+    Swimmer (•150 reward)
+        Level 30 Tentacool
+        Level 30 Shellder
+    Swimmer (•150 reward)
+        Level 30 Horsea
+        Level 30 Horsea
+    Swimmer (•150 reward)
+        Level 30 Poliwag
+        Level 30 Poliwhirl
+    Swimmer (•135 reward)
+        Level 27 Horsea
+        Level 27 Tentacool
+        Level 27 Tentacool
+        Level 27 Goldeen
+    Swimmer (•145 reward)
+        Level 29 Goldeen
+        Level 29 Shellder
+        Level 29 Seaking
+    Beauty (•2100 reward)
+        Level 30 Goldeen
+        Level 30 Seaking
+    Beauty (•2030 reward)
+        Level 29 Staryu
+        Level 29 Staryu
+        Level 29 Staryu
+    Swimmer (•135 reward)
+        Level 27 Tentacool
+        Level 27 Tentacool
+        Level 27 Staryu
+        Level 27 Horsea
+        Level 27 Tentacruel
+    Beauty (•1890 reward)
+        Level 27 Poliwag
+        Level 27 Goldeen
+        Level 27 Seaking
+        Level 27 Goldeen
+        Level 27 Poliwag
+
+Route 20
+
+    Beauty (•2170 reward)
+        Level 31 Poliwag
+        Level 31 Seaking
+    Beauty (•2100 reward)
+        Level 30 Shellder
+        Level 30 Shellder
+        Level 30 Cloyster
+    Jr. Trainer♀ (•620 reward)
+        Level 31 Goldeen
+        Level 31 Seaking
+    Birdkeeper (•750 reward)
+        Level 30 Fearow
+        Level 30 Fearow
+        Level 30 Pidgeotto
+    Swimmer (•175 reward)
+        Level 35 Staryu
+    Beauty (•2100 reward)
+        Level 30 Seadra
+        Level 30 Horsea
+        Level 30 Seadra
+    Swimmer (•155 reward)
+        Level 31 Shellder
+        Level 31 Cloyster
+    Swimmer (•140 reward)
+        Level 28 Horsea
+        Level 28 Horsea
+        Level 28 Seadra
+        Level 28 Horsea
+
+Route 21
+
+    Fisherman (•980 reward)
+        Level 28 Seaking
+        Level 28 Goldeen
+        Level 28 Seaking
+        Level 28 Seaking
+    Fisherman (•945 reward)
+        Level 27 Magikarp
+        Level 27 Magikarp
+        Level 27 Magikarp
+        Level 27 Magikarp
+        Level 27 Magikarp
+        Level 27 Magikarp
+    Cue Ball (•945 reward)
+        Level 31 Tentacool
+        Level 31 Tentacool
+        Level 31 Tentacool
+    Swimmer (•165 reward)
+        Level 33 Seadra
+        Level 33 Tentacruel
+    Fisherman (•1085 reward)
+        Level 31 Shellder
+        Level 31 Cloyster
+    Fisherman (•1155 reward)
+        Level 33 Seaking
+        Level 33 Goldeen
+    Swimmer (•185 reward)
+        Level 37 Starmie
+    Swimmer (•160 reward)
+        Level 32 Poliwhirl
+        Level 32 Tentacool
+        Level 32 Seadra
+    Swimmer (•165 reward)
+        Level 33 Staryu
+        Level 33 Wartortle
+
+Route 24
+
+    Bug Catcher (•140 reward)
+        Level 14 Caterpie
+        Level 14 Weedle
+    Lass (•210 reward)
+        Level 14 Pidgey
+        Level 14 Nidoran♀
+    Youngster (•210 reward)
+        Level 14 Rattata
+        Level 14 Ekans
+        Level 14 Zubat
+    Lass (•240 reward)
+        Level 16 Pidgey
+        Level 16 Nidoran♀
+    Jr. Trainer♂ (•350 reward)
+        Level 14 Rattata
+        Level 14 Ekans
+    Rocket (•450 reward)
+        Level 15 Ekans
+        Level 15 Zubat
+    Jr. Trainer♂ (•350 reward)
+        Level 14 Rattata
+        Level 14 Ekans
+
+Route 25
+
+    Hiker (•525 reward)
+        Level 15 Machop
+        Level 15 Geodude
+    Hiker (•595 reward)
+        Level 17 Onix
+    Youngster (•225 reward)
+        Level 15 Rattata
+        Level 15 Spearow
+    Youngster (•255 reward)
+        Level 17 Slowpoke
+    Lass (•255 reward)
+        Level 15 Nidoran♂
+        Level 15 Nidoran♀
+    Hiker (•545 reward)
+        Level 13 Geodude
+        Level 13 Geodude
+        Level 13 Machop
+        Level 13 Geodude
+    Jr. Trainer♂ (•280 reward)
+        Level 14 Rattata
+        Level 14 Ekans
+    Youngster (•210 reward)
+        Level 14 Ekans
+        Level 14 Sandshrew
+    Lass (•195 reward)
+        Level 13 Oddish
+        Level 13 Pidgey
+        Level 13 Oddish
+
+Celadon City Gym
+
+    Lass (•345 reward)
+        Level 23 Bellsprout
+        Level 23 Weepinbell
+    Beauty (•1680 reward)
+        Level 24 Bellsprout
+        Level 24 Bellsprout
+    Beauty (•1470 reward)
+        Level 21 Oddish
+        Level 21 Bellsprout
+        Level 21 Oddish
+        Level 21 Bellsprout
+    Jr. Trainer (•480 reward)
+        Level 24 Bulbasaur
+        Level 24 Ivysaur
+    Beauty (•1820 reward)
+        Level 26 Exeggcute
+    Cooltrainer (•840 reward)
+        Level 24 Weepinbell
+        Level 24 Gloom
+        Level 24 Ivysaur
+    Lass (•345 reward)
+        Level 23 Oddish
+        Level 23 Gloom
+
+Cerulean City
+
+    Rocket (•525 reward)
+        Level 17 Machop
+        Level 17 Drowzee
+
+Cerulean City Gym
+
+    Swimmer (•320 reward)
+        Level 16 Horsea
+        Level 16 Shellder
+    Jr. Trainer (•380 reward)
+        Level 19 Goldeen
+
+Fuchsia City Gym
+
+    Juggler (•1190 reward)
+        Level 34 Drowzee
+        Level 34 Kadabra
+    Juggler (•1330 reward)
+        Level 38 Hypno
+    Juggler (•1085 reward)
+        Level 31 Drowzee
+        Level 31 Drowzee
+        Level 31 Kadabra
+        Level 31 Drowzee
+    Tamer (•1320 reward)
+        Level 33 Arbok
+        Level 33 Sandslash
+        Level 33 Arbok
+    Tamer (•1630 reward)
+        Level 34 Sandslash
+        Level 34 Arbok
+    Juggler (•1190 reward)
+        Level 34 Drowzee
+        Level 34 Hypno
+
+Mt. Moon
+
+    Bug Catcher (•110 reward)
+        Level 11 Weedle
+        Level 11 Kakuna
+    Lass (•210 reward)
+        Level 14 Clefairy
+    Super Nerd (•275 reward)
+        Level 11 Magnemite
+        Level 11 Voltorb
+    Bug Catcher (•100 reward)
+        Level 10 Caterpie
+        Level 10 Metapod
+        Level 10 Caterpie
+    Lass (•165 reward)
+        Level 11 Oddish
+        Level 11 Bellsprout
+    Youngster (•150 reward)
+        Level 10 Rattata
+        Level 10 Rattata
+        Level 10 Zubat
+    Hiker (•350 reward)
+        Level 10 Geodude
+        Level 10 Geodude
+        Level 10 Onix
+    Rocket (•330 reward)
+        Level 11 Sandshrew
+        Level 11 Rattata
+        Level 11 Zubat
+    Rocket (•360 reward)
+        Level 12 Zubat
+        Level 12 Ekans
+    Rocket (•390 reward)
+        Level 16 Raticate
+    Rocket (•390 reward)
+        Level 13 Rattata
+        Level 13 Zubat
+    Super Nerd (•300 reward)
+        Level 12 Grimer
+        Level 12 Voltorb
+        Level 12 Koffing
+
+Pewter City Gym
+
+    Jr. Trainer♂(•220 reward)
+        Level 11 Diglett
+        Level 11 Sandshrew
+
+Rock Tunnel Lower Level
+
+    Pokémaniac (•1520 reward)
+        Level 25 Slowpoke
+    Jr. Trainer♀ (•440 reward)
+        Level 22 Oddish
+        Level 22 Bulbasaur
+    Pokémaniac (•1100 reward)
+        Level 22 Charmander
+        Level 22 Cubone
+    Hiker (•875 reward)
+        Level 20 Machop
+        Level 20 Onix
+    Hiker (•700 reward)
+        Level 25 Geodude
+    Jr. Trainer♀ (•420 reward)
+        Level 21 Jigglypuff
+        Level 21 Pidgey
+        Level 21 Meowth
+    Hiker (•735 reward)
+        Level 21 Geodude
+        Level 21 Geodude
+        Level 21 Graveler
+    Pokémaniac (•1000 reward)
+        Level 20 Slowpoke
+        Level 20 Slowpoke
+        Level 20 Slowpoke
+
+Pokémon Tower Third Floor
+
+    Channeler (•660 reward)
+        Level 23 Gastly
+    Channeler (•660 reward)
+        Level 22 Gastly
+    Channeler (•720 reward)
+        Level 24 Gastly
+
+Pokémon Tower Fourth Floor
+
+    Channeler (•690 reward)
+        Level 23 Gastly
+        Level 23 Gastly
+    Channeler (•660 reward)
+        Level 22 Gastly
+    Channeler (•720 reward)
+        Level 24 Gastly
+
+Pokémon Tower Fifth Floor
+
+    Channeler (•660 reward)
+        Level 22 Gastly
+    Channeler (•720 reward)
+        Level 24 Gastly
+    Channeler (•660 reward)
+        Level 22 Haunter
+    Channeler (•690 reward)
+        Level 23 Haunter
+
+Pokémon Tower Sixth Floor
+
+    Channeler (•660 reward)
+        Level 22 Gastly
+        Level 22 Gastly
+        Level 22 Gastly
+    Channeler (•720 reward)
+        Level 24 Gastly
+    Channeler (•720 reward)
+        Level 24 Gastly
+
+Pokémon Tower Seventh Floor
+
+    Rocket (•750 reward)
+        Level 25 Zubat
+        Level 25 Zubat
+        Level 25 Golbat
+    Rocket (•780 reward)
+        Level 26 Koffing
+        Level 26 Drowzee
+    Rocket (•690 reward)
+        Level 23 Zubat
+        Level 23 Rattata
+        Level 23 Raticate
+        Level 23 Zubat
+
+Rock Tunnel Upper Level
+
+    Pokémaniac (•1150 reward)
+        Level 23 Cubone
+        Level 23 Slowpoke
+    Hiker (•665 reward)
+        Level 19 Geodude
+        Level 19 Machop
+        Level 19 Geodude
+        Level 19 Geodude
+    Hiker (•700 reward)
+        Level 20 Onix
+        Level 20 Onix
+        Level 20 Geodude
+    Hiker (•735 reward)
+        Level 21 Geodude
+        Level 21 Graveler
+    Jr. Trainer♀ (•440 reward)
+        Level 22 Bellsprout
+        Level 22 Clefairy
+    Jr. Trainer♀ (•380 reward)
+        Level 19 Pidgey
+        Level 19 Rattata
+        Level 19 Rattata
+        Level 19 Bellsprout
+    Jr. Trainer♀ (•400 reward)
+        Level 20
+        Level 20 Oddish
+        Level 20 Pidgey
+
+Saffron City Dojo
+
+    Blackbelt (•775 reward)
+        Level 31 Machop
+        Level 31 Mankey
+        Level 31 Primeape
+    Blackbelt (•800 reward)
+        Level 32 Machop
+        Level 32 Machoke
+    Blackbelt (•900 reward)
+        Level 36 Primeape
+    Blackbelt (•775 reward)
+        Level 31 Mankey
+        Level 31 Mankey
+        Level 31 Primeape
+    Blackbelt (•925 reward)
+        Level 37 Hitmonlee
+        Level 37 Hitmonchan
+
+Saffron City Gym
+
+    Psychic (•330 reward)
+        Level 33 Slowpoke
+        Level 33 Slowpoke
+        Level 33 Slowbro
+    Psychic (•340 reward)
+        Level 34 Mr. Mime
+        Level 34 Kadabra
+    Channeler (•1140 reward)
+        Level 38 Gastly
+    Psychic (•380 reward)
+        Level 38 Slowbro
+    Channeler (•1020 reward)
+        Level 34 Gastly
+        Level 34 Haunter
+    Channeler (•990 reward)
+        Level 33 Gastly
+        Level 33 Gastly
+        Level 33 Haunter
+    Psychic (•310 reward)
+        Level 31 Kadabra
+        Level 31 Slowpoke
+        Level 31 Mr. Mime
+        Level 31 Kadabra
+
+Seafoam Island
+
+    Jr. Trainer (•600 reward)
+        Level 30 Tentacool
+        Level 30 Horsea
+        Level 30 Seel
+    Beauty (•2450 reward)
+        Level 35 Seaking
+
+Silph Company (second floor)
+
+    Rocket (•750 reward)
+        Level 25 Golbat
+        Level 25 Zubat
+        Level 25 Zubat
+        Level 25 Raticate
+        Level 25 Zubat
+    Scientist (•1400 reward)
+        Level 28 Magnemite
+        Level 28 Voltorb
+        Level 28 Magneton
+    Rocket (•870 reward)
+        Level 29 Cubone
+        Level 29 Zubat
+    Scientist (•1300 reward)
+        Level 26 Grimer
+        Level 26 Weezing
+        Level 26 Koffing
+        Level 26 Weezing
+
+Silph Company (third floor)
+
+    Rocket (•840 reward)
+        Level 28 Raticate
+        Level 28 Hypno
+        Level 28 Raticate
+    Scientist (•1450 reward)
+        Level 29 Electrode
+        Level 29 Weezing
+
+Silph Company (fourth floor)
+
+    Rocket (•840 reward)
+        Level 28 Ekans
+        Level 28 Zubat
+        Level 28 Cubone
+    Rocket (•870 reward)
+        Level 29 Machop
+        Level 29 Drowzee
+    Scientist (•1650 reward)
+        Level 33 Electrode
+
+Silph Company (fifth floor)
+
+    Rocket (•990 reward)
+        Level 33 Hypno
+    Juggler (•1015 reward)
+        Level 29 Kadabra
+        Level 29 Mr. Mime
+    Scientist (•1450 reward)
+        Level 26 Magneton
+        Level 26 Koffing
+        Level 26 Weezing
+        Level 26 Magnemite
+    Rocket (•990 reward)
+        Level 33 Arbok
+
+Silph Company (sixth floor)
+
+    Rocket (•870 reward)
+        Level 29 Machop
+        Level 29 Machoke
+    Scientist (•1250 reward)
+        Level 25 Voltorb
+        Level 25 Koffing
+        Level 25 Magneton
+        Level 25 Magnemite
+        Level 25 Koffing
+    Rocket (•840 reward)
+        Level 28 Zubat
+        Level 28 Zubat
+        Level 28 Golbat
+
+Silph Company (seventh floor)
+
+    Rocket (•870 reward)
+        Level 29 Cubone
+        Level 29 Cubone
+    Rocket (•780 reward)
+        Level 26 Raticate
+        Level 26 Arbok
+        Level 26 Koffing
+        Level 26 Golbat
+    Rocket (•840 reward)
+        Level 29 Sandshrew
+        Level 29 Sandslash
+    Scientist (•1450 reward)
+        Level 29 Electrode
+        Level 29 Muk
+
+Silph Company (eighth floor)
+
+    Rocket (•780 reward)
+        Level 26 Raticate
+        Level 26 Zubat
+        Level 26 Golbat
+        Level 26 Rattata
+    Rocket (•840 reward)
+        Level 28 Weezing
+        Level 28 Golbat
+        Level 28 Koffing
+    Scientist (•1450 reward)
+        Level 29 Grimer
+        Level 29 Electrode
+
+Silph Company (ninth floor)
+
+    Scientist (•1400 reward)
+        Level 28 Voltorb
+        Level 28 Koffing
+        Level 28 Magneton
+    Rocket (•840 reward)
+        Level 28 Golbat
+        Level 28 Drowzee
+        Level 28 Hypno
+    Rocket (•840 reward)
+        Level 28 Drowzee
+        Level 28 Grimer
+        Level 28 Machop
+
+Silph Company (tenth floor)
+
+    Scientist (•1450 reward)
+        Level 29 Magnemite
+        Level 29 Koffing
+    Rocket (•840 reward)
+        Level 33 Machoke
+
+Silph Company (eleventh floor)
+
+    Rocket (•750 reward)
+        Level 25 Rattata
+        Level 25 Rattata
+        Level 25 Zubat
+        Level 25 Rattata
+        Level 25 Ekans
+    Rocket (•960 reward)
+        Level 32 Cubone
+        Level 32 Drowzee
+        Level 32 Marowak
+
+S.S. Anne Main Deck
+
+    Gentleman (•1260 reward)
+        Level 18 Growlithe
+        Level 18 Growlithe
+    Gentleman (•1330 reward)
+        Level 19 Nidoran♂
+        Level 19 Nidoran♀
+    Lass (•270 reward)
+        Level 18 Pidgey
+        Level 18 Nidoran♀
+    Youngster (•315 reward)
+        Level 21 Nidoran♂
+
+S.S. Anne Basement
+
+    Sailor (•595 reward)
+        Level 21 Shellder
+    Sailor (•510 reward)
+        Level 17 Horsea
+        Level 17 Shellder
+        Level 17 Tentacool
+    Sailor (•510 reward)
+        Level 17 Horsea
+        Level 17 Horsea
+        Level 17 Horsea
+    Sailor (•540 reward)
+        Level 18 Tentacool
+        Level 18 Staryu
+    Sailor (•595 reward)
+        Level 17 Tentacoo
+        Level 17 Staryu
+        Level 17 Shellder
+
+    Sailor (•600 reward)
+        Level 20 Machop
+
+S.S. Anne Upper Deck
+
+    Fisherman (•350 reward)
+        Level 17 Goldeen
+        Level 17 Tentacool
+        Level 17 Goldeen
+    Gentleman (•1640 reward)
+        Level 23 Pikachu
+    Gentleman (•1190 reward)
+        Level 17 Growlithe
+        Level 17 Ponyta
+    Lass (•315 reward)
+        Level 18 Rattata
+        Level 18 Pikachu
+
+S.S. Anne Lido Deck
+
+    Sailor (•510 reward)
+        Level 17 Machop
+        Level 17 Tentacool
+    Sailor (•540 reward)
+        Level 18 Machop
+        Level 18 Shellder
+
+Team Rocket Base (in front of poster)
+
+    Rocket (•630 reward)
+        Level 20 Raticate
+        Level 20 Zubat
+
+Team Rocket Base (first basement)
+
+    Rocket (•630 reward)
+        Level 21 Drowzee
+        Level 21 Machop
+    Rocket (•630 reward)
+        Level 21 Raticate
+        Level 21 Raticate
+    Rocket (•600 reward)
+        Level 20 Grimer
+        Level 20 Koffing
+        Level 20 Koffing
+    Rocket (•570 reward)
+        Level 19 Rattata
+        Level 19 Raticate
+        Level 19 Raticate
+        Level 19 Rattata
+    Rocket (•660 reward)
+        Level 22 Grimer
+        Level 22 Koffing
+
+Team Rocket Base (second basement)
+
+    Rocket (•510 reward)
+        Level 17 Zubat
+        Level 17 Koffing
+        Level 17 Grimer
+        Level 17 Zubat
+        Level 17 Raticate
+
+Team Rocket Base (third basement)
+
+    Rocket (•630 reward)
+        Level 21 Machop
+        Level 21 Machop
+    Rocket (•600 reward)
+        Level 20 Rattata
+        Level 20 Raticate
+        Level 20 Drowzee
+
+Team Rocket Base (deepest level)
+
+    Rocket (•630 reward)
+        Level 21 Koffing
+        Level 21 Zubat
+    Rocket (•690 reward)
+        Level 23 Sandshrew
+        Level 23 Ekans
+        Level 23 Sandslash
+    Rocket (•690 reward)
+        Level 23 Ekans
+        Level 23 Sandshrew
+        Level 23 Arbok
+
+Vermilion City Gym
+
+    Rocker (•500 reward)
+        Level 20 Voltorb
+        Level 20 Magnemite
+        Level 20 Pikachu
+    Sailor (•630 reward)
+        Level 21 Pikachu
+        Level 21 Pikachu
+    Gentleman (•1610 reward)
+        Level 23 Pikachu
+
+Viridian City Gym
+
+    Blackbelt (•1000 reward)
+        Level 40 Machop
+        Level 40 Machoke
+    Cooltrainer ♂︎ (•1365 reward)
+        Level 39 Sandslash
+        Level 39 Dugtrio
+    Tamer (•1720 reward)
+        Level 43 Rhyhorn
+    Cooltrainer ♂︎(•1505 reward)
+        Level 43 Rhyhorn
+    Blackbelt (•950 reward)
+        Level 38 Machoke
+        Level 38 Machop
+        Level 38 Machoke
+    Tamer (•1365 reward)
+        Level 39 Arbok
+        Level 39 Tauros
+    Blackbelt (•1075 reward)
+        Level 43 Machoke
+    Cooltrainer ♂︎ (•1365 reward)
+        Level 39 Nidorino
+        Level 39 Nidoking
+
+Viridian Forest
+
+    Bug Catcher (•60 reward)
+        Level 6 Weedle
+        Level 6 Caterpie
+    Bug Catcher (•70 reward)
+        Level 7 Weedle
+        Level 7 Kakuna
+        Level 7 Weedle
+    Bug Catcher (•60 reward)
+        Level 9 Weedle
+
+References
+
+The statistics in this page were compiled from the StrategyWiki version of this guide.
+
+
+Safari Zone
+
+The Safari Zone is a large area located north of Fuchsia City. It contains many Pokémon that cannot be found anywhere else.
+
+You must pay a fee of •500 every time you enter the Safari Zone. You are given 30 Safari Balls, and are released into the Zone. When you throw your last Safari Ball, you are automatically teleported back to the entrance. Additionally, there is a time limit. Once you enter the Zone, the game will start counting “steps” (movements from one tile to another, triggered by pressing the + Control Pad). When you take your five hundredth step, you are teleported to the entrance.
+Catching Pokémon
+
+You do not (and cannot) use regular Poké Balls to capture Pokémon in the Safari Zone. You use the Safari Balls instead. When you encounter a wild Pokémon, you must start throwing Safari Balls immediately, hoping for a lucky break. You are not permitted to battle the Pokémon in any way before you throw the Safari Balls. Naturally, the more desirable Pokémon are encountered less, and the better a Pokémon is, the more often it will escape from your Poké Balls.
+
+You are also given Pokémon Food and a supply of rocks. When you encounter a wild Pokémon, you have the choice of throwing either. (You never run out of these items.) Throwing food will make the Pokémon more or less likely to stay inside a Safari Ball. Throwing rocks causes most wild Pokémon to flee. 

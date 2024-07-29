@@ -1,0 +1,2 @@
+Prompt,Max New Tokens,Weight Bit Size,Flash Attention,LM Head Quantization,Generated Text,flag,username,timestamp
+who are you,20,4,false,false,,,,2024-07-23 11:51:59.986951
